@@ -1,0 +1,599 @@
+          FCAIBILLDET                                                AIRLINE BILLING DETAILS                                               031 PRECISION AIR SERVICES PLC
+
+
+Billing Period:190304 (18-MAR-2019 to 24-MAR-2019 )                                                                                                   REFERENCE: 031 -190304
+
+PRECISION AIR SERVICES PLC                                                                    International Air Transport Association
+
+1ST FLOOR, Diamond Plaza Building                                                             BSP CANADA
+Mirambo St/Samora Ave,
+                                                                                              800 PLACE VICTORIA
+Dar es Salaam PO 70770
+Tanzania, United Republic of                                                                  P.O. BOX 113
+GST : 126824382 (.)                                                                            H4Z 1M1
+                                                                                              Canada
+HST : 126824382 (.)
+QST : 1010263146 (.)
+
+
+
+
+NOTES:      STAT column:                        (*) = STAT code amended                    FOP Column:                 (*) = Rejected to Cash
+            Transaction Amount column:          (*) = Includes Pseudo Cash                 COBL Amount column:         (*) = Includes PSC Commissionable taxes
+            Std Comm Rate column:               (*) = Commission control applied          Std Comm Amt column:         (*) = Includes Commission on taxes
+            TRNC “+” In conjunction with previous document
+FARE Amount: Total Transaction Amount - Taxes and Fees + Penalties
+COBL Amount: FARE + Commissionable Taxes
+Balance Payable: Transaction Amount CA FOP (or 0) - Std Comm - Supp Comm +/- Tax on Comm (except where Actual Commission is adopted)
+RTDN: Related Ticket Document Number
+WAVR: Waiver Code
+
+
+
+SUMMARY
+                                 Transaction        FARE                     Taxes, Fees & Charges              COBL       STD Comm      SUPP Comm       Tax on    Balance
+CATEGORY                             Amount        Amount           TAX               F&C          PEN         Amount            Amt           Amt       Comm      Payable
+
+GRAND TOTAL (CAD)                    12,408.33      7,552.00      1,872.69         2,924.64        59.00        7,552.00        183.85         0.00         0.00    3,784.56
+
+
+
+CANADA                                                                                                                                                                    CAD
+
+ CATEGORY                                                                                                                                                                 BSP
+
+
+
+26-MAR-2019         03:03:51AM                                                                                                                                      Page : 00001
+                FCAIBILLDET                                                                        AIRLINE BILLING DETAILS                                                                     031 PRECISION AIR SERVICES PLC
+
+
+
+ SCOPE                                                                                                                                                                                                                              COMBINED
+          Document             Issue                NR                              Transaction         FARE                  Taxes, Fees & Charges                   COBL       ------STD Comm------     ---SUPP Comm---          Tax on          Balance
+TRNC      Number               Date       CPUI      Code       STAT        FOP          Amount         Amount      TAX                  F&C           PEN            Amount      Rate             Amt    Rate               Amt    Comm            Payable
+
+
+
+ 60-5 0112 5           AE   AMA TRAVEL                                                                                                                       HST : 100178375 (Harmonisation Sales Tax)
+                            #19-101 BREMNER DRIVE , Sherwood Park, Alberta ,T8H 0M5                                                                          GST : 100178375 (Goods and Services Tax)
+
+
+***ISSUES
+
+TKTT      2942545117           21MAR19    FFVV                     I52    CC              380.00        317.00    3.40   HY         42.60 YQ                           317.00    5.00           15.85    0.00               0.00     0.00           -15.85
+                                                                                                                  5.60   M4
+                                                                                                                 11.40   TZ
+TKTT      2942545118           21MAR19    FFVV                     I52    CC              380.00        317.00    3.40   HY         42.60 YQ                           317.00    5.00           15.85    0.00               0.00     0.00           -15.85
+                                                                                                                  5.60   M4
+                                                                                                                 11.40   TZ
+TKTT      2942545119           21MAR19    FFVV                     I52    CC              380.00        317.00    3.40   HY         42.60 YQ                           317.00    5.00           15.85    0.00               0.00     0.00           -15.85
+                                                                                                                  5.60   M4
+                                                                                                                 11.40   TZ
+
+ISSUES TOTAL                                                                           1,140.00         951.00     61.20              127.80          0.00             951.00                   47.55                       0.00     0.00           -47.55
+
+
+
+
+  AGENT TOTALS - 60-5 0112 5
+
+ ISSUES                                                                    CC          1,140.00         951.00     61.20              127.80          0.00             951.00                   47.55                       0.00     0.00           -47.55
+
+ GRAND TOTAL                                                              CC           1,140.00         951.00     61.20              127.80          0.00             951.00                   47.55                       0.00     0.00           -47.55
+
+
+
+
+ 60-8 6217 4           HE   BOULEVARD TRAVEL INC.                                                                                                            HST : 102850948 (Harmonisation Sales Tax)
+                            6713 FAIRMOUNT DRIVE S.E. , Calgary, Alberta ,T2H 0X6                                                                            GST : 102850948 (Goods and Services Tax)
+
+
+***ISSUES
+
+TKTT      2943147832           18MAR19    FSFV                     I51    CA              227.00        144.00    3.40   HY         62.60 YQ                           144.00    0.00            0.00    0.00               0.00     0.00           227.00
+                                                                                                                  5.60   M4
+                                                                                                                 11.40   TZ
+TKTT      2943147852           18MAR19    FSFV                     I51    CA              227.00        144.00    3.40   HY         62.60 YQ                           144.00    0.00            0.00    0.00               0.00     0.00           227.00
+                                                                                                                  5.60   M4
+                                                                                                                 11.40   TZ
+
+ISSUES TOTAL                                                                              454.00        288.00     40.80              125.20          0.00             288.00                    0.00                       0.00     0.00           454.00
+
+
+
+
+  AGENT TOTALS - 60-8 6217 4
+
+ ISSUES                                                                    CA             454.00        288.00     40.80              125.20          0.00             288.00                    0.00                       0.00     0.00           454.00
+
+ GRAND TOTAL                                                               CA             454.00        288.00     40.80              125.20          0.00             288.00                    0.00                       0.00     0.00           454.00
+
+
+
+
+ 61-6 7276 3           HE   PERSONAL TRAVEL MANAGEMENT                                                                                                       HST : 899411573 (Harmonisation Sales Tax)
+                            221-8678 GREENALL AVE. , Burnaby, British Columbia ,V5J 3M6                                                                      GST : 899411573 (Goods and Services Tax)
+
+
+***ISSUES
+
+
+
+
+ 26-MAR-2019                   03:03:51AM                                                                                                                                                                                                   Page : 00002
+                FCAIBILLDET                                                                          AIRLINE BILLING DETAILS                                                                     031 PRECISION AIR SERVICES PLC
+
+          Document             Issue                 NR                               Transaction         FARE                  Taxes, Fees & Charges                   COBL       ------STD Comm------     ---SUPP Comm---          Tax on          Balance
+TRNC      Number               Date       CPUI       Code       STAT        FOP           Amount         Amount      TAX                  F&C           PEN            Amount      Rate             Amt    Rate               Amt    Comm            Payable
+
+
+
+ 61-6 7276 3           HE   PERSONAL TRAVEL MANAGEMENT                                                                                                         HST : 899411573 (Harmonisation Sales Tax)
+                            221-8678 GREENALL AVE. , Burnaby, British Columbia ,V5J 3M6                                                                        GST : 899411573 (Goods and Services Tax)
+TKTT      2943125983           20MAR19    FFVV                      I52     CA              301.30        217.00    1.10   E4         62.60 YQ                           217.00    0.00            0.00    0.00               0.00     0.00           301.30
+                                                                                                                    3.40   HY
+                                                                                                                    5.80   M4
+                                                                                                                    5.70   NN
+                                                                                                                    5.70   TZ
+TKTT      2943125984           20MAR19    FFVV                      I52     CA              301.30        217.00    1.10   E4         62.60 YQ                           217.00    0.00            0.00    0.00               0.00     0.00           301.30
+                                                                                                                    3.40   HY
+                                                                                                                    5.80   M4
+                                                                                                                    5.70   NN
+                                                                                                                    5.70   TZ
+
+ISSUES TOTAL                                                                                602.60        434.00     43.40              125.20          0.00             434.00                    0.00                       0.00     0.00           602.60
+
+
+
+
+  AGENT TOTALS - 61-6 7276 3
+
+ ISSUES                                                                     CA              602.60        434.00     43.40              125.20          0.00             434.00                    0.00                       0.00     0.00           602.60
+
+ GRAND TOTAL                                                                CA              602.60        434.00     43.40              125.20          0.00             434.00                    0.00                       0.00     0.00           602.60
+
+
+
+
+ 61-9 0511 5           AE   VISION TRAVEL DT ONTARIO-WEST INC.                                                                                                 GST : 723782728 (Goods and Services Tax)
+                            300 - 1444 ALBERNI ST. , Vancouver, British Columbia ,V6G 2Z4                                                                      HST : 723782728 (Harmonisation Sales Tax)
+
+
+***ISSUES
+
+TKTT      3483087389           19MAR19    FFVV                      I51     CC              477.77        196.00   12.01   HY        133.42 YQ                           196.00    0.00            0.00    0.00               0.00     0.00             0.00
+                                                                                                                    6.67   M4
+                                                                                                                   53.36   TZ
+                                                                                                                   13.34   UG
+                                                                                                                   62.97   UL
+TKTT      3483087390           19MAR19    FFVV                      I51     CC              477.77        196.00   12.01   HY        133.42 YQ                           196.00    0.00            0.00    0.00               0.00     0.00             0.00
+                                                                                                                    6.67   M4
+                                                                                                                   53.36   TZ
+                                                                                                                   13.34   UG
+                                                                                                                   62.97   UL
+TKTT      3483087392           19MAR19    FFVV                      I51     CC              477.77        196.00   12.01   HY        133.42 YQ                           196.00    0.00            0.00    0.00               0.00     0.00             0.00
+                                                                                                                    6.67   M4
+                                                                                                                   53.36   TZ
+                                                                                                                   13.34   UG
+                                                                                                                   62.97   UL
+TKTT      3483087393           19MAR19    FFVV                      I51     CC              477.77        196.00   12.01   HY        133.42 YQ                           196.00    0.00            0.00    0.00               0.00     0.00             0.00
+                                                                                                                    6.67   M4
+                                                                                                                   53.36   TZ
+                                                                                                                   13.34   UG
+                                                                                                                   62.97   UL
+TKTT      3483087405           19MAR19    FFVV                      I51     CC              553.77        272.00   12.01   HY        133.42 YQ                           272.00    0.00            0.00    0.00               0.00     0.00             0.00
+                                                                                                                    6.67   M4
+                                                                                                                   53.36   TZ
+                                                                                                                   13.34   UG
+                                                                                                                   62.97   UL
+TKTT      3483110706           20MAR19    FFFV                      I51     CC              527.29        231.00   12.00   HY         74.67 YQ                           231.00    0.00            0.00    0.00               0.00     0.00             0.00
+                                                                                                                    6.67   M4         73.34 YR
+                                                                                                                   53.34   TZ
+                                                                                                                   13.33   UG
+                                                                                                                   62.94   UL
+
+
+
+
+ 26-MAR-2019                   03:03:51AM                                                                                                                                                                                                     Page : 00003
+                FCAIBILLDET                                                                            AIRLINE BILLING DETAILS                                                                      031 PRECISION AIR SERVICES PLC
+
+          Document             Issue                 NR                               Transaction           FARE                   Taxes, Fees & Charges                   COBL       ------STD Comm------     ---SUPP Comm---          Tax on          Balance
+TRNC      Number               Date       CPUI       Code       STAT        FOP           Amount           Amount       TAX                  F&C           PEN            Amount      Rate             Amt    Rate               Amt    Comm            Payable
+
+
+
+ 61-9 0511 5           AE   VISION TRAVEL DT ONTARIO-WEST INC.                                                                                                    GST : 723782728 (Goods and Services Tax)
+                            300 - 1444 ALBERNI ST. , Vancouver, British Columbia ,V6G 2Z4                                                                         HST : 723782728 (Harmonisation Sales Tax)
+
+ISSUES TOTAL                                                                                2,992.14       1,287.00    890.03              815.11          0.00            1,287.00                   0.00                       0.00     0.00             0.00
+
+
+
+
+  AGENT TOTALS - 61-9 0511 5
+
+ ISSUES                                                                     CC              2,992.14       1,287.00    890.03              815.11          0.00            1,287.00                   0.00                       0.00     0.00             0.00
+
+ GRAND TOTAL                                                                CC              2,992.14       1,287.00    890.03              815.11          0.00            1,287.00                   0.00                       0.00     0.00             0.00
+
+
+
+
+ 67-5 0311 1           AE   TEH - TFS                                                                                                                             GST : 866752454 (Goods and Services Tax)
+                            15 KERN ROAD SUITE 9 , Toronto, Ontario ,M3B 1S9                                                                                      HST : 866752454 (Harmonisation Sales Tax)
+
+
+***ISSUES
+
+TKTT      3483009545           18MAR19    FVVV                      I52     CC                77.71          45.00     1.14   E4         21.31 YQ                            45.00    5.00            2.25    0.00               0.00     0.00            -2.25
+                                                                                                                       1.71   HY
+                                                                                                                       2.85   M4
+                                                                                                                       5.70   NN
+TKTT      3483009546           18MAR19    FVVV                      I52     CC                77.71          45.00     1.14   E4         21.31 YQ                            45.00    5.00            2.25    0.00               0.00     0.00            -2.25
+                                                                                                                       1.71   HY
+                                                                                                                       2.85   M4
+                                                                                                                       5.70   NN
+TKTT      3483141255           20MAR19    FFFV                      I52     CC               272.92         157.00     1.14   E4         84.00 YQ                           157.00    5.00            7.85    0.00               0.00     0.00            -7.85
+                                                                                                                       5.13   HY
+                                                                                                                       8.55   M4
+                                                                                                                       5.70   NN
+                                                                                                                      11.40   TZ
+TKTT      3483141256           20MAR19    FFFV                      I52     CC               272.92         157.00     1.14   E4         84.00 YQ                           157.00    5.00            7.85    0.00               0.00     0.00            -7.85
+                                                                                                                       5.13   HY
+                                                                                                                       8.55   M4
+                                                                                                                       5.70   NN
+                                                                                                                      11.40   TZ
+TKTT      3483178258           21MAR19    FFFV                      I52     CC               320.79         205.00     1.14   E4         83.90 YQ                           205.00    5.00           10.25    0.00               0.00     0.00           -10.25
+                                                                                                                       5.13   HY
+                                                                                                                       8.55   M4
+                                                                                                                       5.69   NN
+                                                                                                                      11.38   TZ
+TKTT      3483178259           21MAR19    FFFV                      I52     CC               320.79         205.00     1.14   E4         83.90 YQ                           205.00    5.00           10.25    0.00               0.00     0.00           -10.25
+                                                                                                                       5.13   HY
+                                                                                                                       8.55   M4
+                                                                                                                       5.69   NN
+                                                                                                                      11.38   TZ
+TKTT      3483201318           21MAR19    FFVV                      I52     CC               475.71         260.00    11.98   HY         50.60 YQ                           260.00    0.00            0.00    0.00               0.00     0.00             0.00
+                                                                                                                       6.66   M4         93.21 YR
+                                                                                                                      53.26   NN
+TKTT      3483201319           21MAR19    FFVV                      I52     CC               475.71         260.00    11.98   HY         50.60 YQ                           260.00    0.00            0.00    0.00               0.00     0.00             0.00
+                                                                                                                       6.66   M4         93.21 YR
+                                                                                                                      53.26   NN
+TKTT      3483256722           23MAR19    FVVV                      I52     CC               340.34         227.00    66.67   TU         46.67 YQ                           227.00    0.00            0.00    0.00               0.00     0.00             0.00
+TKTT      3483277885           24MAR19    FVVV                      I52     CC                98.59          67.00     1.71   HY         21.33 YQ                            67.00    5.00            3.35    0.00               0.00     0.00            -3.35
+                                                                                                                       2.85   M4
+                                                                                                                       5.70   TZ
+TKTT      3483277886           24MAR19    FVVV                      I52     CC                98.59          67.00     1.71   HY         21.33 YQ                            67.00    5.00            3.35    0.00               0.00     0.00            -3.35
+                                                                                                                       2.85   M4
+                                                                                                                       5.70   TZ
+
+
+ 26-MAR-2019                   03:03:51AM                                                                                                                                                                                                        Page : 00004
+                FCAIBILLDET                                                                     AIRLINE BILLING DETAILS                                                                     031 PRECISION AIR SERVICES PLC
+
+          Document             Issue                NR                            Transaction        FARE                  Taxes, Fees & Charges                   COBL       ------STD Comm------     ---SUPP Comm---          Tax on          Balance
+TRNC      Number               Date       CPUI      Code       STAT       FOP         Amount        Amount      TAX                  F&C           PEN            Amount      Rate             Amt    Rate               Amt    Comm            Payable
+
+
+
+ 67-5 0311 1           AE   TEH - TFS                                                                                                                     GST : 866752454 (Goods and Services Tax)
+                            15 KERN ROAD SUITE 9 , Toronto, Ontario ,M3B 1S9                                                                              HST : 866752454 (Harmonisation Sales Tax)
+TKTT      3483277993           24MAR19    FVVV                    I52    CC            228.60        177.00    1.71   HY         41.34 YQ                           177.00    5.00            8.85    0.00               0.00     0.00            -8.85
+                                                                                                               2.85   M4
+                                                                                                               5.70   TZ
+TKTT      3483277994           24MAR19    FVVV                    I52    CC            228.60        177.00    1.71   HY         41.34 YQ                           177.00    5.00            8.85    0.00               0.00     0.00            -8.85
+                                                                                                               2.85   M4
+                                                                                                               5.70   TZ
+
+ISSUES TOTAL                                                                         3,288.98       2,049.00   401.93              838.05          0.00            2,049.00                  65.10                       0.00     0.00           -65.10
+
+
+
+
+  AGENT TOTALS - 67-5 0311 1
+
+ ISSUES                                                                  CC          3,288.98       2,049.00   401.93              838.05          0.00            2,049.00                  65.10                       0.00     0.00           -65.10
+
+ GRAND TOTAL                                                             CC          3,288.98       2,049.00   401.93              838.05          0.00            2,049.00                  65.10                       0.00     0.00           -65.10
+
+
+
+
+ 67-5 0509 3           HE   VIBE TRAVEL INC.                                                                                                              GST : 805306941 (Goods and Services Tax)
+                            14 PRINCE ARTHUR AVENUE SUITE 101 , Toronto, Ontario ,M5R 1A9                                                                 HST : 805306941 (Harmonisation Sales Tax)
+
+
+***ISSUES
+
+TKTT      2943190639           19MAR19    FVVV                    I52    CC            135.70        103.00    1.10   E4         21.30 YQ                           103.00    5.00            5.15    0.00               0.00     0.00            -5.15
+                                                                                                               1.70   HY
+                                                                                                               2.90   M4
+                                                                                                               5.70   NN
+TKTT      2943190642           19MAR19    FVVV                    I52    CC            135.70        103.00    1.10   E4         21.30 YQ                           103.00    0.00            0.00    0.00               0.00     0.00             0.00
+                                                                                                               1.70   HY
+                                                                                                               2.90   M4
+                                                                                                               5.70   NN
+
+ISSUES TOTAL                                                                           271.40        206.00     22.80               42.60          0.00             206.00                    5.15                       0.00     0.00            -5.15
+
+
+
+
+  AGENT TOTALS - 67-5 0509 3
+
+ ISSUES                                                                  CC            271.40        206.00     22.80               42.60          0.00             206.00                    5.15                       0.00     0.00            -5.15
+
+ GRAND TOTAL                                                             CC            271.40        206.00     22.80               42.60          0.00             206.00                    5.15                       0.00     0.00            -5.15
+
+
+
+
+ 67-5 0552 4           HE   VOYZANT                                                                                                                       GST : 853864528 (Goods and Services Tax)
+                            7100 WOODBINE AVENUE, SUITE 311 , Markham, Ontario ,L3R 5J2                                                                   HST : 853864528 (Harmonisation Sales Tax)
+
+
+***ISSUES
+
+TKTT      3124040677           18MAR19    FVVV                    I52    CA            325.55        274.00    1.71   HY         41.30 YQ                           274.00    5.00           13.70    0.00               0.00     0.00           311.85
+                                                                                                               2.85   M4
+                                                                                                               5.69   TZ
+TKTT      3124040679           18MAR19    FVVV                    I52    CA            353.55        302.00    1.71   HY         41.30 YQ                           302.00    5.00           15.10    0.00               0.00     0.00           338.45
+                                                                                                               2.85   M4
+                                                                                                               5.69   TZ
+TKTT      3124049368           18MAR19    FVVV                    I52    CA             98.56         67.00    1.71   HY         21.31 YQ                            67.00    5.00            3.35    0.00               0.00     0.00            95.21
+                                                                                                               2.85   M4
+                                                                                                               5.69   TZ
+
+
+
+
+ 26-MAR-2019                   03:03:51AM                                                                                                                                                                                                Page : 00005
+                FCAIBILLDET                                                                      AIRLINE BILLING DETAILS                                                                      031 PRECISION AIR SERVICES PLC
+
+          Document             Issue                NR                            Transaction         FARE                   Taxes, Fees & Charges                   COBL       ------STD Comm------     ---SUPP Comm---          Tax on          Balance
+TRNC      Number               Date       CPUI     Code       STAT        FOP         Amount         Amount       TAX                  F&C           PEN            Amount      Rate             Amt    Rate               Amt    Comm            Payable
+
+
+
+ 67-5 0552 4           HE   VOYZANT                                                                                                                         GST : 853864528 (Goods and Services Tax)
+                            7100 WOODBINE AVENUE, SUITE 311 , Markham, Ontario ,L3R 5J2                                                                     HST : 853864528 (Harmonisation Sales Tax)
+TKTT      3124062907           19MAR19    FVVV                    I52    CA            151.62         100.00     1.71   HY         41.36 YQ                           100.00    5.00            5.00    0.00               0.00     0.00           146.62
+                                                                                                                 2.85   M4
+                                                                                                                 5.70   TZ
+TKTT      3124062912           19MAR19    FVVV                    I52    CA             77.75          45.00     1.14   E4         21.35 YQ                            45.00    5.00            2.25    0.00               0.00     0.00            75.50
+                                                                                                                 1.71   HY
+                                                                                                                 2.85   M4
+                                                                                                                 5.70   NN
+TKTT      3124063060           20MAR19    FVVV                    I52    CA             98.59          67.00     1.71   HY         21.33 YQ                            67.00    5.00            3.35    0.00               0.00     0.00            95.24
+                                                                                                                 2.85   M4
+                                                                                                                 5.70   TZ
+TKTT      3124063077           20MAR19    FVVV                    I52    CA             98.59          67.00     1.71   HY         21.33 YQ                            67.00    5.00            3.35    0.00               0.00     0.00            95.24
+                                                                                                                 2.85   M4
+                                                                                                                 5.70   TZ
+TKTT      3124095459           21MAR19    FVVV                    I52    CA            190.67         138.00     1.14   E4         41.28 YQ                           138.00    0.00            0.00    0.00               0.00     0.00           190.67
+                                                                                                                 1.71   HY
+                                                                                                                 2.85   M4
+                                                                                                                 5.69   NN
+TKTT      3124095460           21MAR19    FVVV                    I52    CA            190.67         138.00     1.14   E4         41.28 YQ                           138.00    0.00            0.00    0.00               0.00     0.00           190.67
+                                                                                                                 1.71   HY
+                                                                                                                 2.85   M4
+                                                                                                                 5.69   NN
+TKTT      3124097114           21MAR19    FVVV                    I72    CA            284.75         142.00    13.32   UG         66.58 YQ                           142.00    5.00            7.10    0.00               0.00     0.00           277.65
+                                                                                                                62.85   UL
+TKTT      3124100698           22MAR19    FVVV                    I52    CA             98.57          67.00     1.71   HY         21.32 YQ                            67.00    5.00            3.35    0.00               0.00     0.00            95.22
+                                                                                                                 2.85   M4
+                                                                                                                 5.69   TZ
+
+ISSUES TOTAL                                                                          1,968.87       1,407.00    182.13              379.74          0.00            1,407.00                  56.55                       0.00     0.00          1,912.32
+
+
+
+
+  AGENT TOTALS - 67-5 0552 4
+
+ ISSUES                                                                  CA           1,968.87       1,407.00    182.13              379.74          0.00            1,407.00                  56.55                       0.00     0.00          1,912.32
+
+ GRAND TOTAL                                                             CA           1,968.87       1,407.00    182.13              379.74          0.00            1,407.00                  56.55                       0.00     0.00          1,912.32
+
+
+
+
+ 67-5 4156 3           HE   GOWAY TRAVEL                                                                                                                    GST : 102160017 (Goods and Services Tax)
+                            3284 YONGE STREET SUITE 200 , Toronto, Ontario ,M4N 3M7                                                                         HST : 102160017 (Harmonisation Sales Tax)
+
+
+***ISSUES
+
+TKTT      3124056300           19MAR19    FFFV                    I52    CA            471.47         231.00     1.14   E4        152.10 YQ                           231.00    0.00            0.00    0.00               0.00     0.00           471.47
+                                                                                                                 3.42   HY
+                                                                                                                 5.70   M4
+                                                                                                                 5.70   NN
+                                                                                                                66.71   TU
+                                                                                                                 5.70   TZ
+TKTT      3124056301           19MAR19    FFFV                    I52    CA            471.47         231.00     1.14   E4        152.10 YQ                           231.00    0.00            0.00    0.00               0.00     0.00           471.47
+                                                                                                                 3.42   HY
+                                                                                                                 5.70   M4
+                                                                                                                 5.70   NN
+                                                                                                                66.71   TU
+                                                                                                                 5.70   TZ
+
+ISSUES TOTAL                                                                           942.94         462.00     176.74              304.20          0.00             462.00                    0.00                       0.00     0.00           942.94
+
+
+
+
+ 26-MAR-2019                   03:03:51AM                                                                                                                                                                                                  Page : 00006
+                FCAIBILLDET                                                                     AIRLINE BILLING DETAILS                                                                   031 PRECISION AIR SERVICES PLC
+
+          Document             Issue               NR                            Transaction         FARE               Taxes, Fees & Charges                    COBL       ------STD Comm------     ---SUPP Comm---          Tax on          Balance
+TRNC      Number               Date      CPUI      Code       STAT         FOP       Amount         Amount     TAX                F&C            PEN            Amount      Rate             Amt    Rate               Amt    Comm            Payable
+
+
+  AGENT TOTALS - 67-5 4156 3
+
+ ISSUES                                                                    CA          942.94        462.00   176.74            304.20           0.00             462.00                    0.00                       0.00     0.00           942.94
+
+ GRAND TOTAL                                                               CA          942.94        462.00   176.74            304.20           0.00             462.00                    0.00                       0.00     0.00           942.94
+
+
+
+
+ 67-6 0281 3           AE   TEH - RBC                                                                                                                   HST : 866752454 (Harmonisation Sales Tax)
+                            1177 CENTRAL PARKWAY WEST SUITE 22A , Mississauga, Ontario ,L5Y 4P3                                                         GST : 866752454 (Goods and Services Tax)
+
+
+***ISSUES
+
+TKTT      3483115425           20MAR19   FVVV                    I91       CC          151.60        100.00   1.71 HY         41.34 YQ                            100.00    5.00            5.00    0.00               0.00     0.00            -5.00
+                                                                                                              2.85 M4
+                                                                                                              5.70 TZ
+
+ISSUES TOTAL                                                                           151.60        100.00    10.26             41.34           0.00             100.00                    5.00                       0.00     0.00            -5.00
+
+
+
+
+  AGENT TOTALS - 67-6 0281 3
+
+ ISSUES                                                                    CC          151.60        100.00    10.26             41.34           0.00             100.00                    5.00                       0.00     0.00            -5.00
+
+ GRAND TOTAL                                                               CC          151.60        100.00    10.26             41.34           0.00             100.00                    5.00                       0.00     0.00            -5.00
+
+
+
+
+ 67-6 0649 0           HE   VISION TRAVEL DT ONTARIO-WEST INC.                                                                                          GST : 723782728 (Goods and Services Tax)
+                            251 CONSUMERS ROAD 7TH FLOOR , Toronto, Ontario ,M2J 4R3                                                                    HST : 723782728 (Harmonisation Sales Tax)
+
+
+***ISSUES
+
+TKTT      3483219878           22MAR19   FVVV                    I51       CC           28.00          0.00                                     28.00 CP            0.00    0.00            0.00    0.00               0.00     0.00             0.00
++RTDN:    3481760182                     1000                              EX            0.00
+
+ISSUES TOTAL                                                                            28.00          0.00     0.00              0.00          28.00               0.00                    0.00                       0.00     0.00             0.00
+
+
+
+
+  AGENT TOTALS - 67-6 0649 0
+
+ ISSUES                                                                    CC           28.00          0.00     0.00              0.00          28.00               0.00                    0.00                       0.00     0.00             0.00
+
+ GRAND TOTAL                                                               CC           28.00          0.00     0.00              0.00          28.00               0.00                    0.00                       0.00     0.00             0.00
+
+
+
+
+ 67-6 8254 3           AE   TRAVEL EDGE                                                                                                                 GST : 105445761 (Goods and Services Tax)
+                            1920 AVENUE ROAD , Toronto, Ontario ,M5M 4A1                                                                                HST : 105445761 (Harmonisation Sales Tax)
+
+
+***ISSUES
+
+TKTT      3482963760           19MAR19   FVVV                    I52       CC           31.00          0.00                                     31.00 CP            0.00    0.00            0.00    0.00               0.00     0.00             0.00
++RTDN:    3150592194                     1000                              EX            0.00
+
+ISSUES TOTAL                                                                            31.00          0.00     0.00              0.00          31.00               0.00                    0.00                       0.00     0.00             0.00
+
+
+
+
+ 26-MAR-2019                   03:03:51AM                                                                                                                                                                                              Page : 00007
+                FCAIBILLDET                                                                       AIRLINE BILLING DETAILS                                                                     031 PRECISION AIR SERVICES PLC
+
+          Document             Issue                NR                              Transaction        FARE                 Taxes, Fees & Charges                    COBL       ------STD Comm------     ---SUPP Comm---          Tax on          Balance
+TRNC      Number               Date       CPUI      Code       STAT        FOP          Amount        Amount     TAX                  F&C           PEN             Amount      Rate             Amt    Rate               Amt    Comm            Payable
+
+
+  AGENT TOTALS - 67-6 8254 3
+
+ ISSUES                                                                   CC              31.00          0.00     0.00                0.00          31.00               0.00                    0.00                       0.00     0.00             0.00
+
+ GRAND TOTAL                                                              CC              31.00          0.00     0.00                0.00          31.00               0.00                    0.00                       0.00     0.00             0.00
+
+
+
+
+ 67-7 0162 0           HE   HUNTINGTON TRAVEL                                                                                                               GST : 129309720 (Goods and Services Tax)
+                            3100 RIDGEWAY DR. UNIT 16 , Mississauga, Ontario ,L5L 5M5                                                                       HST : 129309720 (Harmonisation Sales Tax)
+
+
+***ISSUES
+
+TKTT      2943205952           19MAR19    FVVV                     I52    CC             190.70        139.00   1.70   HY         41.40 YQ                            139.00    0.00            0.00    0.00               0.00     0.00             0.00
+                                                                                                                2.90   M4
+                                                                                                                5.70   TZ
+TKTT      2943205953           19MAR19    FVVV                     I52    CC             190.70        139.00   1.70   HY         41.40 YQ                            139.00    0.00            0.00    0.00               0.00     0.00             0.00
+                                                                                                                2.90   M4
+                                                                                                                5.70   TZ
+TKTT      2943229639           23MAR19    FVVV                     I52    CC              77.70         45.00   1.10   E4         21.30 YQ                             45.00    5.00            2.25    0.00               0.00     0.00            -2.25
+                                                                                                                1.70   HY
+                                                                                                                2.90   M4
+                                                                                                                5.70   NN
+TKTT      2943229640           23MAR19    FVVV                     I52    CC              77.70         45.00   1.10   E4         21.30 YQ                             45.00    5.00            2.25    0.00               0.00     0.00            -2.25
+                                                                                                                1.70   HY
+                                                                                                                2.90   M4
+                                                                                                                5.70   NN
+
+ISSUES TOTAL                                                                             536.80        368.00    43.40              125.40           0.00             368.00                    4.50                       0.00     0.00            -4.50
+
+
+
+
+  AGENT TOTALS - 67-7 0162 0
+
+ ISSUES                                                                   CC             536.80        368.00    43.40              125.40           0.00             368.00                    4.50                       0.00     0.00            -4.50
+
+ GRAND TOTAL                                                              CC             536.80        368.00    43.40              125.40           0.00             368.00                    4.50                       0.00     0.00            -4.50
+
+
+
+
+ 67-8 6261 6           HE   NORTHSTAR TRAVEL                                                                                                                GST : 106533573 (Goods and Services Tax)
+                            201-678 BELMONT AVE W , Kitchener, Ontario ,N2M 1N6                                                                             HST : 106533573 (Harmonisation Sales Tax)
+
+
+***ISSUES
+
+CANX      2942945592           22MAR19    VVVV                     I*                      0.00          0.00                                                           0.00    0.00            0.00    0.00               0.00     0.00             0.00
+
+ISSUES TOTAL                                                                                             0.00     0.00                0.00           0.00               0.00                    0.00                       0.00     0.00             0.00
+
+
+
+
+  AGENT TOTALS - 67-8 6261 6
+
+ ISSUES                                                                                    0.00          0.00     0.00                0.00           0.00               0.00                    0.00                       0.00     0.00             0.00
+
+ GRAND TOTAL                                                                               0.00          0.00     0.00                0.00           0.00               0.00                    0.00                       0.00     0.00             0.00
+
+
+
+
+ 26-MAR-2019                   03:03:51AM                                                                                                                                                                                                  Page : 00008
+              FCAIBILLDET                        AIRLINE BILLING DETAILS                                  031 PRECISION AIR SERVICES PLC
+
+
+COMBINED                                                                                                                               TOTALS
+
+ISSUES                          CA    3,968.41
+
+                                CC    8,439.92
+
+                                **   12,408.33       7,552.00   1,872.69   2,924.64   59.00   7,552.00   183.85       0.00    0.00          3,784.56
+
+GRAND TOTAL                     CA    3,968.41
+
+                                CC    8,439.92
+
+                                **   12,408.33       7,552.00   1,872.69   2,924.64   59.00   7,552.00   183.85        0.00   0.00          3,784.56
+
+
+
+
+26-MAR-2019        03:03:51AM                                                                                                        Page : 00009
+

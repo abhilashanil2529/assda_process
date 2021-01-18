@@ -1,0 +1,4753 @@
+[
+{
+    "model": "agency.agencylistreference",
+    "pk": 1,
+    "fields": {
+        "processed_at": "2019-06-27T15:06:28.528Z",
+        "created_at": "2019-06-27T15:06:28.528Z",
+        "file": "agencyfiles/download.txt",
+        "file_type": 1
+    }
+},
+{
+    "model": "agency.agencylistreference",
+    "pk": 2,
+    "fields": {
+        "processed_at": "2019-06-27T15:34:06.098Z",
+        "created_at": "2019-06-27T15:34:06.098Z",
+        "file": "agencyfiles/a1mw_2019061620190616.csv",
+        "file_type": 1
+    }
+},
+{
+    "model": "agency.agencylistreference",
+    "pk": 3,
+    "fields": {
+        "processed_at": "2019-07-03T15:25:29.321Z",
+        "created_at": "2019-07-03T15:25:29.321Z",
+        "file": "agencyfiles/o1mw_2019030320190303.csv",
+        "file_type": 1
+    }
+},
+{
+    "model": "agency.agencylistreference",
+    "pk": 4,
+    "fields": {
+        "processed_at": "2019-07-03T20:46:07.619Z",
+        "created_at": "2019-07-03T20:46:07.619Z",
+        "file": "agencyfiles/19-0042.xls",
+        "file_type": 2
+    }
+},
+{
+    "model": "agency.agencylistreference",
+    "pk": 6,
+    "fields": {
+        "processed_at": "2019-07-03T20:47:18.420Z",
+        "created_at": "2019-07-03T20:47:18.420Z",
+        "file": "agencyfiles/19-0043.xls",
+        "file_type": 2
+    }
+},
+{
+    "model": "agency.agencylistreference",
+    "pk": 7,
+    "fields": {
+        "processed_at": "2019-07-03T20:49:29.711Z",
+        "created_at": "2019-07-03T20:49:29.711Z",
+        "file": "agencyfiles/19-0044.xls",
+        "file_type": 2
+    }
+},
+{
+    "model": "agency.agencylistreference",
+    "pk": 9,
+    "fields": {
+        "processed_at": "2019-07-03T20:49:42.751Z",
+        "created_at": "2019-07-03T20:49:42.751Z",
+        "file": "agencyfiles/19-0047.xls",
+        "file_type": 2
+    }
+},
+{
+    "model": "agency.agencylistreference",
+    "pk": 11,
+    "fields": {
+        "processed_at": "2019-07-03T20:50:14.162Z",
+        "created_at": "2019-07-03T20:50:14.162Z",
+        "file": "agencyfiles/a1mw_20190224.csv",
+        "file_type": 1
+    }
+},
+{
+    "model": "agency.agencylistreference",
+    "pk": 14,
+    "fields": {
+        "processed_at": "2019-09-25T18:06:50.467Z",
+        "created_at": "2019-09-25T18:06:50.467Z",
+        "file": "agencyfiles/MResultOfTheAgentSearch201992514247.txt",
+        "file_type": 1
+    }
+},
+{
+    "model": "agency.agencylistreference",
+    "pk": 15,
+    "fields": {
+        "processed_at": "2019-12-17T14:17:52.283Z",
+        "created_at": "2019-12-17T14:17:52.283Z",
+        "file": "agencyfiles/a1mw_2019031720190317.csv",
+        "file_type": 1
+    }
+},
+{
+    "model": "agency.agencylistreference",
+    "pk": 16,
+    "fields": {
+        "processed_at": "2019-12-17T14:18:28.759Z",
+        "created_at": "2019-12-17T14:18:28.759Z",
+        "file": "agencyfiles/18-0219.xls",
+        "file_type": 2
+    }
+},
+{
+    "model": "agency.agencylistreference",
+    "pk": 17,
+    "fields": {
+        "processed_at": "2020-01-20T18:10:36.110Z",
+        "created_at": "2020-01-20T18:10:36.110Z",
+        "file": "agencyfiles/MResultOfTheAgentSearch202012013915.txt",
+        "file_type": 1
+    }
+},
+{
+    "model": "agency.agencylistreference",
+    "pk": 18,
+    "fields": {
+        "processed_at": "2020-01-20T20:45:21.625Z",
+        "created_at": "2020-01-20T20:45:21.625Z",
+        "file": "agencyfiles/EBulletin_Weekly_Report_4-JAN-2020_-_10-JAN-2020.xlsx",
+        "file_type": 2
+    }
+},
+{
+    "model": "agency.agencylistreference",
+    "pk": 19,
+    "fields": {
+        "processed_at": "2020-01-20T20:54:43.051Z",
+        "created_at": "2020-01-20T20:54:43.051Z",
+        "file": "agencyfiles/EBulletin_Weekly_Report_11-JAN-2020_-_17-JAN-2020.xlsx",
+        "file_type": 2
+    }
+},
+{
+    "model": "agency.agencylistreference",
+    "pk": 20,
+    "fields": {
+        "processed_at": "2020-01-20T21:03:02.769Z",
+        "created_at": "2020-01-20T21:03:02.769Z",
+        "file": "agencyfiles/EBulletin_Weekly_Report_4-JAN-2020_-_10-JAN-2020_7rsUBtU.xlsx",
+        "file_type": 2
+    }
+},
+{
+    "model": "agency.agencylistreference",
+    "pk": 21,
+    "fields": {
+        "processed_at": "2020-01-20T21:03:09.680Z",
+        "created_at": "2020-01-20T21:03:09.680Z",
+        "file": "agencyfiles/EBulletin_Weekly_Report_11-JAN-2020_-_17-JAN-2020_XyVUAeB.xlsx",
+        "file_type": 2
+    }
+},
+{
+    "model": "agency.agencylistreference",
+    "pk": 22,
+    "fields": {
+        "processed_at": "2020-03-05T20:21:06.021Z",
+        "created_at": "2020-03-05T20:21:06.021Z",
+        "file": "agencyfiles/a1mw_2020022320200223.csv",
+        "file_type": 1
+    }
+},
+{
+    "model": "agency.agencylistreference",
+    "pk": 23,
+    "fields": {
+        "processed_at": "2020-03-05T20:21:22.448Z",
+        "created_at": "2020-03-05T20:21:22.448Z",
+        "file": "agencyfiles/a1mw_20200301.csv",
+        "file_type": 1
+    }
+},
+{
+    "model": "agency.agencylistreference",
+    "pk": 24,
+    "fields": {
+        "processed_at": "2020-03-05T20:21:56.725Z",
+        "created_at": "2020-03-05T20:21:56.725Z",
+        "file": "agencyfiles/20-0019.xls",
+        "file_type": 2
+    }
+},
+{
+    "model": "agency.agencylistreference",
+    "pk": 25,
+    "fields": {
+        "processed_at": "2020-03-05T20:22:04.951Z",
+        "created_at": "2020-03-05T20:22:04.951Z",
+        "file": "agencyfiles/20-0018.xls",
+        "file_type": 2
+    }
+},
+{
+    "model": "agency.agencylistreference",
+    "pk": 26,
+    "fields": {
+        "processed_at": "2020-03-05T20:22:18.582Z",
+        "created_at": "2020-03-05T20:22:18.582Z",
+        "file": "agencyfiles/20-0017.xls",
+        "file_type": 2
+    }
+},
+{
+    "model": "agency.agencylistreference",
+    "pk": 27,
+    "fields": {
+        "processed_at": "2020-03-18T20:41:30.717Z",
+        "created_at": "2020-03-18T20:41:30.717Z",
+        "file": "agencyfiles/a1mw_2020030820200308.csv",
+        "file_type": 1
+    }
+},
+{
+    "model": "agency.agencylistreference",
+    "pk": 28,
+    "fields": {
+        "processed_at": "2020-03-18T20:41:44.886Z",
+        "created_at": "2020-03-18T20:41:44.886Z",
+        "file": "agencyfiles/a1mw_20200315.csv",
+        "file_type": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 1,
+    "fields": {
+        "year": 2019,
+        "month": 1,
+        "week": 1,
+        "ped": "2019-01-06",
+        "from_date": "2019-01-01",
+        "remittance_date": "2019-01-11",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 2,
+    "fields": {
+        "year": 2019,
+        "month": 1,
+        "week": 2,
+        "ped": "2019-01-13",
+        "from_date": "2019-01-07",
+        "remittance_date": "2019-01-18",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 3,
+    "fields": {
+        "year": 2019,
+        "month": 1,
+        "week": 3,
+        "ped": "2019-01-20",
+        "from_date": "2019-01-14",
+        "remittance_date": "2019-01-25",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 4,
+    "fields": {
+        "year": 2019,
+        "month": 1,
+        "week": 4,
+        "ped": "2019-01-27",
+        "from_date": "2019-01-21",
+        "remittance_date": "2019-02-01",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 5,
+    "fields": {
+        "year": 2019,
+        "month": 2,
+        "week": 1,
+        "ped": "2019-02-03",
+        "from_date": "2019-01-28",
+        "remittance_date": "2019-02-08",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 6,
+    "fields": {
+        "year": 2019,
+        "month": 2,
+        "week": 2,
+        "ped": "2019-02-10",
+        "from_date": "2019-02-04",
+        "remittance_date": "2019-02-15",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 7,
+    "fields": {
+        "year": 2019,
+        "month": 2,
+        "week": 3,
+        "ped": "2019-02-17",
+        "from_date": "2019-02-11",
+        "remittance_date": "2019-02-22",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 8,
+    "fields": {
+        "year": 2019,
+        "month": 2,
+        "week": 4,
+        "ped": "2019-02-24",
+        "from_date": "2019-02-18",
+        "remittance_date": "2019-03-01",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 9,
+    "fields": {
+        "year": 2019,
+        "month": 3,
+        "week": 1,
+        "ped": "2019-03-03",
+        "from_date": "2019-02-25",
+        "remittance_date": "2019-03-08",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 10,
+    "fields": {
+        "year": 2019,
+        "month": 3,
+        "week": 2,
+        "ped": "2019-03-10",
+        "from_date": "2019-03-04",
+        "remittance_date": "2019-03-15",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 11,
+    "fields": {
+        "year": 2019,
+        "month": 3,
+        "week": 3,
+        "ped": "2019-03-17",
+        "from_date": "2019-03-11",
+        "remittance_date": "2019-03-22",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 12,
+    "fields": {
+        "year": 2019,
+        "month": 3,
+        "week": 4,
+        "ped": "2019-03-24",
+        "from_date": "2019-03-18",
+        "remittance_date": "2019-03-29",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 13,
+    "fields": {
+        "year": 2019,
+        "month": 3,
+        "week": 5,
+        "ped": "2019-03-31",
+        "from_date": "2019-03-25",
+        "remittance_date": "2019-04-05",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 14,
+    "fields": {
+        "year": 2019,
+        "month": 4,
+        "week": 1,
+        "ped": "2019-04-07",
+        "from_date": "2019-04-01",
+        "remittance_date": "2019-04-12",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 15,
+    "fields": {
+        "year": 2019,
+        "month": 4,
+        "week": 2,
+        "ped": "2019-04-14",
+        "from_date": "2019-04-08",
+        "remittance_date": "2019-04-19",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 16,
+    "fields": {
+        "year": 2019,
+        "month": 4,
+        "week": 3,
+        "ped": "2019-04-21",
+        "from_date": "2019-04-15",
+        "remittance_date": "2019-04-26",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 17,
+    "fields": {
+        "year": 2019,
+        "month": 4,
+        "week": 4,
+        "ped": "2019-04-28",
+        "from_date": "2019-04-22",
+        "remittance_date": "2019-05-03",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 18,
+    "fields": {
+        "year": 2019,
+        "month": 5,
+        "week": 1,
+        "ped": "2019-05-05",
+        "from_date": "2019-04-29",
+        "remittance_date": "2019-05-10",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 19,
+    "fields": {
+        "year": 2019,
+        "month": 5,
+        "week": 2,
+        "ped": "2019-05-12",
+        "from_date": "2019-05-06",
+        "remittance_date": "2019-05-17",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 20,
+    "fields": {
+        "year": 2019,
+        "month": 5,
+        "week": 3,
+        "ped": "2019-05-19",
+        "from_date": "2019-05-13",
+        "remittance_date": "2019-05-24",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 21,
+    "fields": {
+        "year": 2019,
+        "month": 5,
+        "week": 4,
+        "ped": "2019-05-26",
+        "from_date": "2019-05-20",
+        "remittance_date": "2019-05-31",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 22,
+    "fields": {
+        "year": 2019,
+        "month": 6,
+        "week": 1,
+        "ped": "2019-06-02",
+        "from_date": "2019-05-27",
+        "remittance_date": "2019-06-07",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 23,
+    "fields": {
+        "year": 2019,
+        "month": 6,
+        "week": 2,
+        "ped": "2019-06-09",
+        "from_date": "2019-06-03",
+        "remittance_date": "2019-06-14",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 24,
+    "fields": {
+        "year": 2019,
+        "month": 6,
+        "week": 3,
+        "ped": "2019-06-16",
+        "from_date": "2019-06-10",
+        "remittance_date": "2019-06-21",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 25,
+    "fields": {
+        "year": 2019,
+        "month": 6,
+        "week": 4,
+        "ped": "2019-06-23",
+        "from_date": "2019-06-17",
+        "remittance_date": "2019-06-28",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 26,
+    "fields": {
+        "year": 2019,
+        "month": 6,
+        "week": 5,
+        "ped": "2019-06-30",
+        "from_date": "2019-06-24",
+        "remittance_date": "2019-07-05",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 27,
+    "fields": {
+        "year": 2019,
+        "month": 7,
+        "week": 1,
+        "ped": "2019-07-07",
+        "from_date": "2019-07-01",
+        "remittance_date": "2019-07-12",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 28,
+    "fields": {
+        "year": 2019,
+        "month": 7,
+        "week": 2,
+        "ped": "2019-07-14",
+        "from_date": "2019-07-08",
+        "remittance_date": "2019-07-19",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 29,
+    "fields": {
+        "year": 2019,
+        "month": 7,
+        "week": 3,
+        "ped": "2019-07-21",
+        "from_date": "2019-07-15",
+        "remittance_date": "2019-07-26",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 30,
+    "fields": {
+        "year": 2019,
+        "month": 7,
+        "week": 4,
+        "ped": "2019-07-28",
+        "from_date": "2019-07-22",
+        "remittance_date": "2019-08-02",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 31,
+    "fields": {
+        "year": 2019,
+        "month": 8,
+        "week": 1,
+        "ped": "2019-08-04",
+        "from_date": "2019-07-29",
+        "remittance_date": "2019-08-09",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 32,
+    "fields": {
+        "year": 2019,
+        "month": 8,
+        "week": 2,
+        "ped": "2019-08-11",
+        "from_date": "2019-08-05",
+        "remittance_date": "2019-08-16",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 33,
+    "fields": {
+        "year": 2019,
+        "month": 8,
+        "week": 3,
+        "ped": "2019-08-18",
+        "from_date": "2019-08-12",
+        "remittance_date": "2019-08-23",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 34,
+    "fields": {
+        "year": 2019,
+        "month": 8,
+        "week": 4,
+        "ped": "2019-08-25",
+        "from_date": "2019-08-19",
+        "remittance_date": "2019-08-30",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 35,
+    "fields": {
+        "year": 2019,
+        "month": 9,
+        "week": 1,
+        "ped": "2019-09-01",
+        "from_date": "2019-08-26",
+        "remittance_date": "2019-09-06",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 36,
+    "fields": {
+        "year": 2019,
+        "month": 9,
+        "week": 2,
+        "ped": "2019-09-08",
+        "from_date": "2019-09-02",
+        "remittance_date": "2019-09-13",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 37,
+    "fields": {
+        "year": 2019,
+        "month": 9,
+        "week": 3,
+        "ped": "2019-09-15",
+        "from_date": "2019-09-09",
+        "remittance_date": "2019-09-20",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 38,
+    "fields": {
+        "year": 2019,
+        "month": 9,
+        "week": 4,
+        "ped": "2019-09-22",
+        "from_date": "2019-09-16",
+        "remittance_date": "2019-09-27",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 39,
+    "fields": {
+        "year": 2019,
+        "month": 9,
+        "week": 5,
+        "ped": "2019-09-29",
+        "from_date": "2019-09-23",
+        "remittance_date": "2019-10-04",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 40,
+    "fields": {
+        "year": 2019,
+        "month": 10,
+        "week": 1,
+        "ped": "2019-10-06",
+        "from_date": "2019-09-30",
+        "remittance_date": "2019-10-11",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 41,
+    "fields": {
+        "year": 2019,
+        "month": 10,
+        "week": 2,
+        "ped": "2019-10-13",
+        "from_date": "2019-10-07",
+        "remittance_date": "2019-10-18",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 42,
+    "fields": {
+        "year": 2019,
+        "month": 10,
+        "week": 3,
+        "ped": "2019-10-20",
+        "from_date": "2019-10-14",
+        "remittance_date": "2019-10-25",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 43,
+    "fields": {
+        "year": 2019,
+        "month": 10,
+        "week": 4,
+        "ped": "2019-10-27",
+        "from_date": "2019-10-21",
+        "remittance_date": "2019-11-01",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 44,
+    "fields": {
+        "year": 2019,
+        "month": 11,
+        "week": 1,
+        "ped": "2019-11-03",
+        "from_date": "2019-10-28",
+        "remittance_date": "2019-11-08",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 45,
+    "fields": {
+        "year": 2019,
+        "month": 11,
+        "week": 2,
+        "ped": "2019-11-10",
+        "from_date": "2019-11-04",
+        "remittance_date": "2019-11-15",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 46,
+    "fields": {
+        "year": 2019,
+        "month": 11,
+        "week": 3,
+        "ped": "2019-11-17",
+        "from_date": "2019-11-11",
+        "remittance_date": "2019-11-22",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 47,
+    "fields": {
+        "year": 2019,
+        "month": 11,
+        "week": 4,
+        "ped": "2019-11-24",
+        "from_date": "2019-11-18",
+        "remittance_date": "2019-11-29",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 48,
+    "fields": {
+        "year": 2019,
+        "month": 12,
+        "week": 1,
+        "ped": "2019-12-01",
+        "from_date": "2019-11-25",
+        "remittance_date": "2019-12-06",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 49,
+    "fields": {
+        "year": 2019,
+        "month": 12,
+        "week": 2,
+        "ped": "2019-12-08",
+        "from_date": "2019-12-02",
+        "remittance_date": "2019-12-13",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 50,
+    "fields": {
+        "year": 2019,
+        "month": 12,
+        "week": 3,
+        "ped": "2019-12-15",
+        "from_date": "2019-12-09",
+        "remittance_date": "2019-12-20",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 51,
+    "fields": {
+        "year": 2019,
+        "month": 12,
+        "week": 4,
+        "ped": "2019-12-22",
+        "from_date": "2019-12-16",
+        "remittance_date": "2019-12-27",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 52,
+    "fields": {
+        "year": 2019,
+        "month": 12,
+        "week": 5,
+        "ped": "2019-12-29",
+        "from_date": "2019-12-23",
+        "remittance_date": "2020-01-03",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 53,
+    "fields": {
+        "year": 2018,
+        "month": 1,
+        "week": 1,
+        "ped": "2018-01-07",
+        "from_date": "2018-01-01",
+        "remittance_date": "2018-01-12",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 54,
+    "fields": {
+        "year": 2018,
+        "month": 1,
+        "week": 2,
+        "ped": "2018-01-14",
+        "from_date": "2018-01-08",
+        "remittance_date": "2018-01-19",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 55,
+    "fields": {
+        "year": 2018,
+        "month": 1,
+        "week": 3,
+        "ped": "2018-01-21",
+        "from_date": "2018-01-15",
+        "remittance_date": "2018-01-26",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 56,
+    "fields": {
+        "year": 2018,
+        "month": 1,
+        "week": 4,
+        "ped": "2018-01-28",
+        "from_date": "2018-01-22",
+        "remittance_date": "2018-02-02",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 57,
+    "fields": {
+        "year": 2018,
+        "month": 2,
+        "week": 1,
+        "ped": "2018-02-04",
+        "from_date": "2018-01-29",
+        "remittance_date": "2018-02-09",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 58,
+    "fields": {
+        "year": 2018,
+        "month": 2,
+        "week": 2,
+        "ped": "2018-02-11",
+        "from_date": "2018-02-05",
+        "remittance_date": "2018-02-16",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 59,
+    "fields": {
+        "year": 2018,
+        "month": 2,
+        "week": 3,
+        "ped": "2018-02-18",
+        "from_date": "2018-02-12",
+        "remittance_date": "2018-02-23",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 60,
+    "fields": {
+        "year": 2018,
+        "month": 2,
+        "week": 4,
+        "ped": "2018-02-25",
+        "from_date": "2018-02-19",
+        "remittance_date": "2018-03-02",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 61,
+    "fields": {
+        "year": 2018,
+        "month": 3,
+        "week": 1,
+        "ped": "2018-03-04",
+        "from_date": "2018-02-26",
+        "remittance_date": "2018-03-09",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 62,
+    "fields": {
+        "year": 2018,
+        "month": 3,
+        "week": 2,
+        "ped": "2018-03-11",
+        "from_date": "2018-03-05",
+        "remittance_date": "2018-03-16",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 63,
+    "fields": {
+        "year": 2018,
+        "month": 3,
+        "week": 3,
+        "ped": "2018-03-18",
+        "from_date": "2018-03-12",
+        "remittance_date": "2018-03-23",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 64,
+    "fields": {
+        "year": 2018,
+        "month": 3,
+        "week": 4,
+        "ped": "2018-03-25",
+        "from_date": "2018-03-19",
+        "remittance_date": "2018-03-30",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 65,
+    "fields": {
+        "year": 2018,
+        "month": 3,
+        "week": 5,
+        "ped": "2018-04-01",
+        "from_date": "2018-03-26",
+        "remittance_date": "2018-04-06",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 66,
+    "fields": {
+        "year": 2018,
+        "month": 4,
+        "week": 1,
+        "ped": "2018-04-08",
+        "from_date": "2018-04-02",
+        "remittance_date": "2018-04-13",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 67,
+    "fields": {
+        "year": 2018,
+        "month": 4,
+        "week": 2,
+        "ped": "2018-04-15",
+        "from_date": "2018-04-09",
+        "remittance_date": "2018-04-20",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 68,
+    "fields": {
+        "year": 2018,
+        "month": 4,
+        "week": 3,
+        "ped": "2018-04-22",
+        "from_date": "2018-04-16",
+        "remittance_date": "2018-04-27",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 69,
+    "fields": {
+        "year": 2018,
+        "month": 4,
+        "week": 4,
+        "ped": "2018-04-29",
+        "from_date": "2018-04-23",
+        "remittance_date": "2018-05-04",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 70,
+    "fields": {
+        "year": 2018,
+        "month": 5,
+        "week": 1,
+        "ped": "2018-05-06",
+        "from_date": "2018-04-30",
+        "remittance_date": "2018-05-11",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 71,
+    "fields": {
+        "year": 2018,
+        "month": 5,
+        "week": 2,
+        "ped": "2018-05-13",
+        "from_date": "2018-05-07",
+        "remittance_date": "2018-05-18",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 72,
+    "fields": {
+        "year": 2018,
+        "month": 5,
+        "week": 3,
+        "ped": "2018-05-20",
+        "from_date": "2018-05-14",
+        "remittance_date": "2018-05-25",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 73,
+    "fields": {
+        "year": 2018,
+        "month": 5,
+        "week": 4,
+        "ped": "2018-05-27",
+        "from_date": "2018-05-21",
+        "remittance_date": "2018-06-01",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 74,
+    "fields": {
+        "year": 2018,
+        "month": 6,
+        "week": 1,
+        "ped": "2018-06-03",
+        "from_date": "2018-05-28",
+        "remittance_date": "2018-06-08",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 75,
+    "fields": {
+        "year": 2018,
+        "month": 6,
+        "week": 2,
+        "ped": "2018-06-10",
+        "from_date": "2018-06-04",
+        "remittance_date": "2018-06-15",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 76,
+    "fields": {
+        "year": 2018,
+        "month": 6,
+        "week": 3,
+        "ped": "2018-06-17",
+        "from_date": "2018-06-11",
+        "remittance_date": "2018-06-22",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 77,
+    "fields": {
+        "year": 2018,
+        "month": 6,
+        "week": 4,
+        "ped": "2018-06-24",
+        "from_date": "2018-06-18",
+        "remittance_date": "2018-06-29",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 78,
+    "fields": {
+        "year": 2018,
+        "month": 6,
+        "week": 5,
+        "ped": "2018-07-01",
+        "from_date": "2018-06-25",
+        "remittance_date": "2018-07-06",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 79,
+    "fields": {
+        "year": 2018,
+        "month": 7,
+        "week": 1,
+        "ped": "2018-07-08",
+        "from_date": "2018-07-02",
+        "remittance_date": "2018-07-13",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 80,
+    "fields": {
+        "year": 2018,
+        "month": 7,
+        "week": 2,
+        "ped": "2018-07-15",
+        "from_date": "2018-07-09",
+        "remittance_date": "2018-07-20",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 81,
+    "fields": {
+        "year": 2018,
+        "month": 7,
+        "week": 3,
+        "ped": "2018-07-22",
+        "from_date": "2018-07-16",
+        "remittance_date": "2018-07-27",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 82,
+    "fields": {
+        "year": 2018,
+        "month": 7,
+        "week": 4,
+        "ped": "2018-07-29",
+        "from_date": "2018-07-23",
+        "remittance_date": "2018-08-03",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 83,
+    "fields": {
+        "year": 2018,
+        "month": 8,
+        "week": 1,
+        "ped": "2018-08-05",
+        "from_date": "2018-07-30",
+        "remittance_date": "2018-08-10",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 84,
+    "fields": {
+        "year": 2018,
+        "month": 8,
+        "week": 2,
+        "ped": "2018-08-12",
+        "from_date": "2018-08-06",
+        "remittance_date": "2018-08-17",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 85,
+    "fields": {
+        "year": 2018,
+        "month": 8,
+        "week": 3,
+        "ped": "2018-08-19",
+        "from_date": "2018-08-13",
+        "remittance_date": "2018-08-24",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 86,
+    "fields": {
+        "year": 2018,
+        "month": 8,
+        "week": 4,
+        "ped": "2018-08-26",
+        "from_date": "2018-08-20",
+        "remittance_date": "2018-08-31",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 87,
+    "fields": {
+        "year": 2018,
+        "month": 9,
+        "week": 1,
+        "ped": "2018-09-02",
+        "from_date": "2018-08-27",
+        "remittance_date": "2018-09-07",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 88,
+    "fields": {
+        "year": 2018,
+        "month": 9,
+        "week": 2,
+        "ped": "2018-09-09",
+        "from_date": "2018-09-03",
+        "remittance_date": "2018-09-14",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 89,
+    "fields": {
+        "year": 2018,
+        "month": 9,
+        "week": 3,
+        "ped": "2018-09-16",
+        "from_date": "2018-09-10",
+        "remittance_date": "2018-09-21",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 90,
+    "fields": {
+        "year": 2018,
+        "month": 9,
+        "week": 4,
+        "ped": "2018-09-23",
+        "from_date": "2018-09-17",
+        "remittance_date": "2018-09-28",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 91,
+    "fields": {
+        "year": 2018,
+        "month": 9,
+        "week": 5,
+        "ped": "2018-09-30",
+        "from_date": "2018-09-24",
+        "remittance_date": "2018-10-05",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 92,
+    "fields": {
+        "year": 2018,
+        "month": 10,
+        "week": 1,
+        "ped": "2018-10-07",
+        "from_date": "2018-10-01",
+        "remittance_date": "2018-10-12",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 93,
+    "fields": {
+        "year": 2018,
+        "month": 10,
+        "week": 2,
+        "ped": "2018-10-14",
+        "from_date": "2018-10-08",
+        "remittance_date": "2018-10-19",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 94,
+    "fields": {
+        "year": 2018,
+        "month": 10,
+        "week": 3,
+        "ped": "2018-10-21",
+        "from_date": "2018-10-15",
+        "remittance_date": "2018-10-26",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 95,
+    "fields": {
+        "year": 2018,
+        "month": 10,
+        "week": 4,
+        "ped": "2018-10-28",
+        "from_date": "2018-10-22",
+        "remittance_date": "2018-11-02",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 96,
+    "fields": {
+        "year": 2018,
+        "month": 11,
+        "week": 1,
+        "ped": "2018-11-04",
+        "from_date": "2018-10-29",
+        "remittance_date": "2018-11-09",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 97,
+    "fields": {
+        "year": 2018,
+        "month": 11,
+        "week": 2,
+        "ped": "2018-11-11",
+        "from_date": "2018-11-05",
+        "remittance_date": "2018-11-16",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 98,
+    "fields": {
+        "year": 2018,
+        "month": 11,
+        "week": 3,
+        "ped": "2018-11-18",
+        "from_date": "2018-11-12",
+        "remittance_date": "2018-11-23",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 99,
+    "fields": {
+        "year": 2018,
+        "month": 11,
+        "week": 4,
+        "ped": "2018-11-25",
+        "from_date": "2018-11-19",
+        "remittance_date": "2018-11-30",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 100,
+    "fields": {
+        "year": 2018,
+        "month": 12,
+        "week": 1,
+        "ped": "2018-12-02",
+        "from_date": "2018-11-26",
+        "remittance_date": "2018-12-07",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 101,
+    "fields": {
+        "year": 2018,
+        "month": 12,
+        "week": 2,
+        "ped": "2018-12-09",
+        "from_date": "2018-12-03",
+        "remittance_date": "2018-12-14",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 102,
+    "fields": {
+        "year": 2018,
+        "month": 12,
+        "week": 3,
+        "ped": "2018-12-16",
+        "from_date": "2018-12-10",
+        "remittance_date": "2018-12-21",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 103,
+    "fields": {
+        "year": 2018,
+        "month": 12,
+        "week": 4,
+        "ped": "2018-12-23",
+        "from_date": "2018-12-17",
+        "remittance_date": "2018-12-28",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 104,
+    "fields": {
+        "year": 2018,
+        "month": 12,
+        "week": 5,
+        "ped": "2018-12-30",
+        "from_date": "2018-12-24",
+        "remittance_date": "2019-01-04",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 105,
+    "fields": {
+        "year": 2019,
+        "month": 1,
+        "week": 1,
+        "ped": "2019-01-06",
+        "from_date": "2019-01-01",
+        "remittance_date": "2019-01-16",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 106,
+    "fields": {
+        "year": 2019,
+        "month": 1,
+        "week": 2,
+        "ped": "2019-01-13",
+        "from_date": "2019-01-07",
+        "remittance_date": "2019-01-23",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 107,
+    "fields": {
+        "year": 2019,
+        "month": 1,
+        "week": 3,
+        "ped": "2019-01-20",
+        "from_date": "2019-01-14",
+        "remittance_date": "2019-01-30",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 108,
+    "fields": {
+        "year": 2019,
+        "month": 1,
+        "week": 4,
+        "ped": "2019-01-27",
+        "from_date": "2019-01-21",
+        "remittance_date": "2019-02-06",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 109,
+    "fields": {
+        "year": 2019,
+        "month": 2,
+        "week": 1,
+        "ped": "2019-02-03",
+        "from_date": "2019-01-28",
+        "remittance_date": "2019-02-13",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 110,
+    "fields": {
+        "year": 2019,
+        "month": 2,
+        "week": 2,
+        "ped": "2019-02-10",
+        "from_date": "2019-02-04",
+        "remittance_date": "2019-02-20",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 111,
+    "fields": {
+        "year": 2019,
+        "month": 2,
+        "week": 3,
+        "ped": "2019-02-17",
+        "from_date": "2019-02-11",
+        "remittance_date": "2019-02-27",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 112,
+    "fields": {
+        "year": 2019,
+        "month": 2,
+        "week": 4,
+        "ped": "2019-02-24",
+        "from_date": "2019-02-18",
+        "remittance_date": "2019-03-06",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 113,
+    "fields": {
+        "year": 2019,
+        "month": 3,
+        "week": 1,
+        "ped": "2019-03-03",
+        "from_date": "2019-02-25",
+        "remittance_date": "2019-03-13",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 114,
+    "fields": {
+        "year": 2019,
+        "month": 3,
+        "week": 2,
+        "ped": "2019-03-10",
+        "from_date": "2019-03-04",
+        "remittance_date": "2019-03-20",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 115,
+    "fields": {
+        "year": 2019,
+        "month": 3,
+        "week": 3,
+        "ped": "2019-03-17",
+        "from_date": "2019-03-11",
+        "remittance_date": "2019-03-27",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 116,
+    "fields": {
+        "year": 2019,
+        "month": 3,
+        "week": 4,
+        "ped": "2019-03-24",
+        "from_date": "2019-03-18",
+        "remittance_date": "2019-04-03",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 117,
+    "fields": {
+        "year": 2019,
+        "month": 4,
+        "week": 1,
+        "ped": "2019-04-07",
+        "from_date": "2019-04-01",
+        "remittance_date": "2019-04-17",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 118,
+    "fields": {
+        "year": 2019,
+        "month": 4,
+        "week": 2,
+        "ped": "2019-04-14",
+        "from_date": "2019-04-08",
+        "remittance_date": "2019-04-24",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 119,
+    "fields": {
+        "year": 2019,
+        "month": 4,
+        "week": 3,
+        "ped": "2019-04-21",
+        "from_date": "2019-04-15",
+        "remittance_date": "2019-05-01",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 120,
+    "fields": {
+        "year": 2019,
+        "month": 4,
+        "week": 4,
+        "ped": "2019-04-28",
+        "from_date": "2019-04-22",
+        "remittance_date": "2019-05-08",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 121,
+    "fields": {
+        "year": 2019,
+        "month": 5,
+        "week": 1,
+        "ped": "2019-05-05",
+        "from_date": "2019-04-29",
+        "remittance_date": "2019-05-15",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 122,
+    "fields": {
+        "year": 2019,
+        "month": 5,
+        "week": 2,
+        "ped": "2019-05-12",
+        "from_date": "2019-05-06",
+        "remittance_date": "2019-05-22",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 123,
+    "fields": {
+        "year": 2019,
+        "month": 5,
+        "week": 3,
+        "ped": "2019-05-19",
+        "from_date": "2019-05-13",
+        "remittance_date": "2019-05-29",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 124,
+    "fields": {
+        "year": 2019,
+        "month": 5,
+        "week": 4,
+        "ped": "2019-05-26",
+        "from_date": "2019-05-20",
+        "remittance_date": "2019-06-05",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 125,
+    "fields": {
+        "year": 2019,
+        "month": 6,
+        "week": 1,
+        "ped": "2019-06-02",
+        "from_date": "2019-05-27",
+        "remittance_date": "2019-06-12",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 126,
+    "fields": {
+        "year": 2019,
+        "month": 6,
+        "week": 2,
+        "ped": "2019-06-09",
+        "from_date": "2019-06-03",
+        "remittance_date": "2019-06-19",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 127,
+    "fields": {
+        "year": 2019,
+        "month": 6,
+        "week": 3,
+        "ped": "2019-06-16",
+        "from_date": "2019-06-10",
+        "remittance_date": "2019-06-26",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 128,
+    "fields": {
+        "year": 2019,
+        "month": 6,
+        "week": 4,
+        "ped": "2019-06-23",
+        "from_date": "2019-06-17",
+        "remittance_date": "2019-07-03",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 129,
+    "fields": {
+        "year": 2019,
+        "month": 6,
+        "week": 5,
+        "ped": "2019-06-30",
+        "from_date": "2019-06-24",
+        "remittance_date": "2019-07-10",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 130,
+    "fields": {
+        "year": 2019,
+        "month": 7,
+        "week": 1,
+        "ped": "2019-07-07",
+        "from_date": "2019-07-01",
+        "remittance_date": "2019-07-17",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 131,
+    "fields": {
+        "year": 2019,
+        "month": 7,
+        "week": 2,
+        "ped": "2019-07-14",
+        "from_date": "2019-07-08",
+        "remittance_date": "2019-07-24",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 132,
+    "fields": {
+        "year": 2019,
+        "month": 7,
+        "week": 3,
+        "ped": "2019-07-21",
+        "from_date": "2019-07-15",
+        "remittance_date": "2019-07-31",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 133,
+    "fields": {
+        "year": 2019,
+        "month": 7,
+        "week": 4,
+        "ped": "2019-07-28",
+        "from_date": "2019-07-22",
+        "remittance_date": "2019-08-07",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 134,
+    "fields": {
+        "year": 2019,
+        "month": 8,
+        "week": 1,
+        "ped": "2019-08-04",
+        "from_date": "2019-07-29",
+        "remittance_date": "2019-08-14",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 135,
+    "fields": {
+        "year": 2019,
+        "month": 8,
+        "week": 2,
+        "ped": "2019-08-11",
+        "from_date": "2019-08-05",
+        "remittance_date": "2019-08-21",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 136,
+    "fields": {
+        "year": 2019,
+        "month": 8,
+        "week": 3,
+        "ped": "2019-08-18",
+        "from_date": "2019-08-12",
+        "remittance_date": "2019-08-28",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 137,
+    "fields": {
+        "year": 2019,
+        "month": 8,
+        "week": 4,
+        "ped": "2019-08-25",
+        "from_date": "2019-08-19",
+        "remittance_date": "2019-09-04",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 138,
+    "fields": {
+        "year": 2019,
+        "month": 9,
+        "week": 1,
+        "ped": "2019-09-01",
+        "from_date": "2019-08-26",
+        "remittance_date": "2019-09-11",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 139,
+    "fields": {
+        "year": 2019,
+        "month": 9,
+        "week": 2,
+        "ped": "2019-09-08",
+        "from_date": "2019-09-02",
+        "remittance_date": "2019-09-18",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 140,
+    "fields": {
+        "year": 2019,
+        "month": 9,
+        "week": 3,
+        "ped": "2019-09-15",
+        "from_date": "2019-09-09",
+        "remittance_date": "2019-09-25",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 141,
+    "fields": {
+        "year": 2019,
+        "month": 9,
+        "week": 4,
+        "ped": "2019-09-22",
+        "from_date": "2019-09-16",
+        "remittance_date": "2019-10-02",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 142,
+    "fields": {
+        "year": 2019,
+        "month": 9,
+        "week": 5,
+        "ped": "2019-09-29",
+        "from_date": "2019-09-23",
+        "remittance_date": "2019-10-09",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 143,
+    "fields": {
+        "year": 2019,
+        "month": 10,
+        "week": 1,
+        "ped": "2019-10-06",
+        "from_date": "2019-09-30",
+        "remittance_date": "2019-10-16",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 144,
+    "fields": {
+        "year": 2019,
+        "month": 10,
+        "week": 2,
+        "ped": "2019-10-13",
+        "from_date": "2019-10-07",
+        "remittance_date": "2019-10-23",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 145,
+    "fields": {
+        "year": 2019,
+        "month": 10,
+        "week": 3,
+        "ped": "2019-10-20",
+        "from_date": "2019-10-14",
+        "remittance_date": "2019-10-30",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 146,
+    "fields": {
+        "year": 2019,
+        "month": 10,
+        "week": 4,
+        "ped": "2019-10-27",
+        "from_date": "2019-10-21",
+        "remittance_date": "2019-11-06",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 147,
+    "fields": {
+        "year": 2019,
+        "month": 11,
+        "week": 1,
+        "ped": "2019-11-03",
+        "from_date": "2019-10-28",
+        "remittance_date": "2019-11-13",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 148,
+    "fields": {
+        "year": 2019,
+        "month": 11,
+        "week": 2,
+        "ped": "2019-11-10",
+        "from_date": "2019-11-04",
+        "remittance_date": "2019-11-20",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 149,
+    "fields": {
+        "year": 2019,
+        "month": 11,
+        "week": 3,
+        "ped": "2019-11-17",
+        "from_date": "2019-11-11",
+        "remittance_date": "2019-11-27",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 150,
+    "fields": {
+        "year": 2019,
+        "month": 11,
+        "week": 4,
+        "ped": "2019-11-24",
+        "from_date": "2019-11-18",
+        "remittance_date": "2019-12-04",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 151,
+    "fields": {
+        "year": 2019,
+        "month": 12,
+        "week": 1,
+        "ped": "2019-12-01",
+        "from_date": "2019-11-25",
+        "remittance_date": "2019-12-11",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 152,
+    "fields": {
+        "year": 2019,
+        "month": 12,
+        "week": 2,
+        "ped": "2019-12-08",
+        "from_date": "2019-12-02",
+        "remittance_date": "2019-12-18",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 153,
+    "fields": {
+        "year": 2019,
+        "month": 12,
+        "week": 3,
+        "ped": "2019-12-15",
+        "from_date": "2019-12-09",
+        "remittance_date": "2019-12-27",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 154,
+    "fields": {
+        "year": 2019,
+        "month": 12,
+        "week": 4,
+        "ped": "2019-12-22",
+        "from_date": "2019-12-16",
+        "remittance_date": "2020-01-01",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 155,
+    "fields": {
+        "year": 2019,
+        "month": 12,
+        "week": 5,
+        "ped": "2019-12-31",
+        "from_date": "2019-12-23",
+        "remittance_date": "2020-01-10",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 156,
+    "fields": {
+        "year": 2018,
+        "month": 1,
+        "week": 1,
+        "ped": "2018-01-07",
+        "from_date": "2018-01-01",
+        "remittance_date": "2018-01-17",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 157,
+    "fields": {
+        "year": 2018,
+        "month": 1,
+        "week": 2,
+        "ped": "2018-01-14",
+        "from_date": "2018-01-08",
+        "remittance_date": "2018-01-24",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 158,
+    "fields": {
+        "year": 2018,
+        "month": 1,
+        "week": 3,
+        "ped": "2018-01-21",
+        "from_date": "2018-01-15",
+        "remittance_date": "2018-01-31",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 159,
+    "fields": {
+        "year": 2018,
+        "month": 1,
+        "week": 4,
+        "ped": "2018-01-28",
+        "from_date": "2018-01-22",
+        "remittance_date": "2018-02-07",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 160,
+    "fields": {
+        "year": 2018,
+        "month": 2,
+        "week": 1,
+        "ped": "2018-02-04",
+        "from_date": "2018-01-29",
+        "remittance_date": "2018-02-14",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 161,
+    "fields": {
+        "year": 2018,
+        "month": 2,
+        "week": 2,
+        "ped": "2018-02-11",
+        "from_date": "2018-02-05",
+        "remittance_date": "2018-02-21",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 162,
+    "fields": {
+        "year": 2018,
+        "month": 2,
+        "week": 3,
+        "ped": "2018-02-18",
+        "from_date": "2018-02-12",
+        "remittance_date": "2018-02-28",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 163,
+    "fields": {
+        "year": 2018,
+        "month": 2,
+        "week": 4,
+        "ped": "2018-02-25",
+        "from_date": "2018-02-19",
+        "remittance_date": "2018-03-07",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 164,
+    "fields": {
+        "year": 2018,
+        "month": 3,
+        "week": 1,
+        "ped": "2018-03-04",
+        "from_date": "2018-02-26",
+        "remittance_date": "2018-03-14",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 165,
+    "fields": {
+        "year": 2018,
+        "month": 3,
+        "week": 2,
+        "ped": "2018-03-11",
+        "from_date": "2018-03-05",
+        "remittance_date": "2018-03-21",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 166,
+    "fields": {
+        "year": 2018,
+        "month": 3,
+        "week": 3,
+        "ped": "2018-03-18",
+        "from_date": "2018-03-12",
+        "remittance_date": "2018-03-28",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 167,
+    "fields": {
+        "year": 2018,
+        "month": 3,
+        "week": 4,
+        "ped": "2018-03-25",
+        "from_date": "2018-03-19",
+        "remittance_date": "2018-04-04",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 168,
+    "fields": {
+        "year": 2018,
+        "month": 4,
+        "week": 1,
+        "ped": "2018-04-01",
+        "from_date": "2018-03-26",
+        "remittance_date": "2018-04-11",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 169,
+    "fields": {
+        "year": 2018,
+        "month": 4,
+        "week": 2,
+        "ped": "2018-04-08",
+        "from_date": "2018-04-02",
+        "remittance_date": "2018-04-18",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 170,
+    "fields": {
+        "year": 2018,
+        "month": 4,
+        "week": 3,
+        "ped": "2018-04-15",
+        "from_date": "2018-04-09",
+        "remittance_date": "2018-04-25",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 171,
+    "fields": {
+        "year": 2018,
+        "month": 4,
+        "week": 4,
+        "ped": "2018-04-22",
+        "from_date": "2018-04-16",
+        "remittance_date": "2018-05-02",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 172,
+    "fields": {
+        "year": 2018,
+        "month": 4,
+        "week": 5,
+        "ped": "2018-04-29",
+        "from_date": "2018-04-23",
+        "remittance_date": "2018-05-09",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 173,
+    "fields": {
+        "year": 2018,
+        "month": 5,
+        "week": 1,
+        "ped": "2018-05-06",
+        "from_date": "2018-04-30",
+        "remittance_date": "2018-05-16",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 174,
+    "fields": {
+        "year": 2018,
+        "month": 5,
+        "week": 2,
+        "ped": "2018-05-13",
+        "from_date": "2018-05-07",
+        "remittance_date": "2018-05-23",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 175,
+    "fields": {
+        "year": 2018,
+        "month": 5,
+        "week": 3,
+        "ped": "2018-05-20",
+        "from_date": "2018-05-14",
+        "remittance_date": "2018-05-30",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 176,
+    "fields": {
+        "year": 2018,
+        "month": 5,
+        "week": 4,
+        "ped": "2018-05-27",
+        "from_date": "2018-05-21",
+        "remittance_date": "2018-06-06",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 177,
+    "fields": {
+        "year": 2018,
+        "month": 6,
+        "week": 1,
+        "ped": "2018-06-03",
+        "from_date": "2018-05-28",
+        "remittance_date": "2018-06-13",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 178,
+    "fields": {
+        "year": 2018,
+        "month": 6,
+        "week": 2,
+        "ped": "2018-06-10",
+        "from_date": "2018-06-04",
+        "remittance_date": "2018-06-20",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 179,
+    "fields": {
+        "year": 2018,
+        "month": 6,
+        "week": 3,
+        "ped": "2018-06-17",
+        "from_date": "2018-06-11",
+        "remittance_date": "2018-06-27",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 180,
+    "fields": {
+        "year": 2018,
+        "month": 6,
+        "week": 4,
+        "ped": "2018-06-24",
+        "from_date": "2018-06-18",
+        "remittance_date": "2018-07-04",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 181,
+    "fields": {
+        "year": 2018,
+        "month": 7,
+        "week": 1,
+        "ped": "2018-07-01",
+        "from_date": "2018-06-25",
+        "remittance_date": "2018-07-11",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 182,
+    "fields": {
+        "year": 2018,
+        "month": 7,
+        "week": 2,
+        "ped": "2018-07-08",
+        "from_date": "2018-07-02",
+        "remittance_date": "2018-07-18",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 183,
+    "fields": {
+        "year": 2018,
+        "month": 7,
+        "week": 3,
+        "ped": "2018-07-15",
+        "from_date": "2018-07-09",
+        "remittance_date": "2018-07-25",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 184,
+    "fields": {
+        "year": 2018,
+        "month": 7,
+        "week": 4,
+        "ped": "2018-07-22",
+        "from_date": "2018-07-16",
+        "remittance_date": "2018-08-01",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 185,
+    "fields": {
+        "year": 2018,
+        "month": 7,
+        "week": 5,
+        "ped": "2018-07-29",
+        "from_date": "2018-07-23",
+        "remittance_date": "2018-08-08",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 186,
+    "fields": {
+        "year": 2018,
+        "month": 8,
+        "week": 1,
+        "ped": "2018-08-05",
+        "from_date": "2018-07-30",
+        "remittance_date": "2018-08-15",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 187,
+    "fields": {
+        "year": 2018,
+        "month": 8,
+        "week": 2,
+        "ped": "2018-08-12",
+        "from_date": "2018-08-06",
+        "remittance_date": "2018-08-22",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 188,
+    "fields": {
+        "year": 2018,
+        "month": 8,
+        "week": 3,
+        "ped": "2018-08-19",
+        "from_date": "2018-08-13",
+        "remittance_date": "2018-08-29",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 189,
+    "fields": {
+        "year": 2018,
+        "month": 8,
+        "week": 4,
+        "ped": "2018-08-26",
+        "from_date": "2018-08-20",
+        "remittance_date": "2018-09-05",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 190,
+    "fields": {
+        "year": 2018,
+        "month": 9,
+        "week": 1,
+        "ped": "2018-09-02",
+        "from_date": "2018-08-27",
+        "remittance_date": "2018-09-12",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 191,
+    "fields": {
+        "year": 2018,
+        "month": 9,
+        "week": 2,
+        "ped": "2018-09-09",
+        "from_date": "2018-09-03",
+        "remittance_date": "2018-09-19",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 192,
+    "fields": {
+        "year": 2018,
+        "month": 9,
+        "week": 3,
+        "ped": "2018-09-16",
+        "from_date": "2018-09-10",
+        "remittance_date": "2018-09-26",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 193,
+    "fields": {
+        "year": 2018,
+        "month": 9,
+        "week": 4,
+        "ped": "2018-09-23",
+        "from_date": "2018-09-17",
+        "remittance_date": "2018-10-03",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 194,
+    "fields": {
+        "year": 2018,
+        "month": 9,
+        "week": 5,
+        "ped": "2018-09-30",
+        "from_date": "2018-09-24",
+        "remittance_date": "2018-10-10",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 195,
+    "fields": {
+        "year": 2018,
+        "month": 10,
+        "week": 1,
+        "ped": "2018-10-07",
+        "from_date": "2018-10-01",
+        "remittance_date": "2018-10-17",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 196,
+    "fields": {
+        "year": 2018,
+        "month": 10,
+        "week": 2,
+        "ped": "2018-10-14",
+        "from_date": "2018-10-08",
+        "remittance_date": "2018-10-24",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 197,
+    "fields": {
+        "year": 2018,
+        "month": 10,
+        "week": 3,
+        "ped": "2018-10-21",
+        "from_date": "2018-10-15",
+        "remittance_date": "2018-10-31",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 198,
+    "fields": {
+        "year": 2018,
+        "month": 10,
+        "week": 4,
+        "ped": "2018-10-28",
+        "from_date": "2018-10-22",
+        "remittance_date": "2018-11-07",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 199,
+    "fields": {
+        "year": 2018,
+        "month": 11,
+        "week": 1,
+        "ped": "2018-11-04",
+        "from_date": "2018-10-29",
+        "remittance_date": "2018-11-14",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 200,
+    "fields": {
+        "year": 2018,
+        "month": 11,
+        "week": 2,
+        "ped": "2018-11-11",
+        "from_date": "2018-11-05",
+        "remittance_date": "2018-11-21",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 201,
+    "fields": {
+        "year": 2018,
+        "month": 11,
+        "week": 3,
+        "ped": "2018-11-18",
+        "from_date": "2018-11-12",
+        "remittance_date": "2018-11-28",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 202,
+    "fields": {
+        "year": 2018,
+        "month": 11,
+        "week": 4,
+        "ped": "2018-11-25",
+        "from_date": "2018-11-19",
+        "remittance_date": "2018-12-05",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 203,
+    "fields": {
+        "year": 2018,
+        "month": 12,
+        "week": 1,
+        "ped": "2018-12-02",
+        "from_date": "2018-11-26",
+        "remittance_date": "2018-12-12",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 204,
+    "fields": {
+        "year": 2018,
+        "month": 12,
+        "week": 2,
+        "ped": "2018-12-09",
+        "from_date": "2018-12-03",
+        "remittance_date": "2018-12-19",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 205,
+    "fields": {
+        "year": 2018,
+        "month": 12,
+        "week": 3,
+        "ped": "2018-12-16",
+        "from_date": "2018-12-10",
+        "remittance_date": "2018-12-27",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 206,
+    "fields": {
+        "year": 2018,
+        "month": 12,
+        "week": 4,
+        "ped": "2018-12-23",
+        "from_date": "2018-12-17",
+        "remittance_date": "2019-01-03",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 207,
+    "fields": {
+        "year": 2018,
+        "month": 12,
+        "week": 5,
+        "ped": "2018-12-31",
+        "from_date": "2018-12-24",
+        "remittance_date": "2019-01-09",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 208,
+    "fields": {
+        "year": 2017,
+        "month": 1,
+        "week": 1,
+        "ped": "2017-01-01",
+        "from_date": "2016-12-26",
+        "remittance_date": "2017-01-11",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 209,
+    "fields": {
+        "year": 2017,
+        "month": 1,
+        "week": 2,
+        "ped": "2017-01-08",
+        "from_date": "2017-01-02",
+        "remittance_date": "2017-01-18",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 210,
+    "fields": {
+        "year": 2017,
+        "month": 1,
+        "week": 3,
+        "ped": "2017-01-15",
+        "from_date": "2017-01-09",
+        "remittance_date": "2017-01-25",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 211,
+    "fields": {
+        "year": 2017,
+        "month": 1,
+        "week": 4,
+        "ped": "2017-01-22",
+        "from_date": "2017-01-16",
+        "remittance_date": "2017-02-01",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 212,
+    "fields": {
+        "year": 2017,
+        "month": 1,
+        "week": 5,
+        "ped": "2017-01-29",
+        "from_date": "2017-01-23",
+        "remittance_date": "2017-02-08",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 213,
+    "fields": {
+        "year": 2017,
+        "month": 2,
+        "week": 1,
+        "ped": "2017-02-05",
+        "from_date": "2017-01-30",
+        "remittance_date": "2017-02-15",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 214,
+    "fields": {
+        "year": 2017,
+        "month": 2,
+        "week": 2,
+        "ped": "2017-02-12",
+        "from_date": "2017-02-06",
+        "remittance_date": "2017-02-22",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 215,
+    "fields": {
+        "year": 2017,
+        "month": 2,
+        "week": 3,
+        "ped": "2017-02-19",
+        "from_date": "2017-02-13",
+        "remittance_date": "2017-03-01",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 216,
+    "fields": {
+        "year": 2017,
+        "month": 2,
+        "week": 4,
+        "ped": "2017-02-26",
+        "from_date": "2017-02-20",
+        "remittance_date": "2017-03-08",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 217,
+    "fields": {
+        "year": 2017,
+        "month": 3,
+        "week": 1,
+        "ped": "2017-03-05",
+        "from_date": "2017-02-27",
+        "remittance_date": "2017-03-15",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 218,
+    "fields": {
+        "year": 2017,
+        "month": 3,
+        "week": 2,
+        "ped": "2017-03-12",
+        "from_date": "2017-03-06",
+        "remittance_date": "2017-03-22",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 219,
+    "fields": {
+        "year": 2017,
+        "month": 3,
+        "week": 3,
+        "ped": "2017-03-19",
+        "from_date": "2017-03-13",
+        "remittance_date": "2017-03-29",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 220,
+    "fields": {
+        "year": 2017,
+        "month": 3,
+        "week": 4,
+        "ped": "2017-03-26",
+        "from_date": "2017-03-20",
+        "remittance_date": "2017-04-05",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 221,
+    "fields": {
+        "year": 2017,
+        "month": 4,
+        "week": 1,
+        "ped": "2017-04-02",
+        "from_date": "2017-03-27",
+        "remittance_date": "2017-04-12",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 222,
+    "fields": {
+        "year": 2017,
+        "month": 4,
+        "week": 2,
+        "ped": "2017-04-09",
+        "from_date": "2017-04-03",
+        "remittance_date": "2017-04-19",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 223,
+    "fields": {
+        "year": 2017,
+        "month": 4,
+        "week": 3,
+        "ped": "2017-04-16",
+        "from_date": "2017-04-10",
+        "remittance_date": "2017-04-26",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 224,
+    "fields": {
+        "year": 2017,
+        "month": 4,
+        "week": 4,
+        "ped": "2017-04-23",
+        "from_date": "2017-04-17",
+        "remittance_date": "2017-05-03",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 225,
+    "fields": {
+        "year": 2017,
+        "month": 4,
+        "week": 5,
+        "ped": "2017-04-30",
+        "from_date": "2017-04-24",
+        "remittance_date": "2017-05-10",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 226,
+    "fields": {
+        "year": 2017,
+        "month": 5,
+        "week": 1,
+        "ped": "2017-05-07",
+        "from_date": "2017-05-01",
+        "remittance_date": "2017-05-17",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 227,
+    "fields": {
+        "year": 2017,
+        "month": 5,
+        "week": 2,
+        "ped": "2017-05-14",
+        "from_date": "2017-05-08",
+        "remittance_date": "2017-05-24",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 228,
+    "fields": {
+        "year": 2017,
+        "month": 5,
+        "week": 3,
+        "ped": "2017-05-21",
+        "from_date": "2017-05-15",
+        "remittance_date": "2017-05-31",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 229,
+    "fields": {
+        "year": 2017,
+        "month": 5,
+        "week": 4,
+        "ped": "2017-05-28",
+        "from_date": "2017-05-22",
+        "remittance_date": "2017-06-07",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 230,
+    "fields": {
+        "year": 2017,
+        "month": 6,
+        "week": 1,
+        "ped": "2017-06-04",
+        "from_date": "2017-05-29",
+        "remittance_date": "2017-06-14",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 231,
+    "fields": {
+        "year": 2017,
+        "month": 6,
+        "week": 2,
+        "ped": "2017-06-11",
+        "from_date": "2017-06-05",
+        "remittance_date": "2017-06-21",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 232,
+    "fields": {
+        "year": 2017,
+        "month": 6,
+        "week": 3,
+        "ped": "2017-06-18",
+        "from_date": "2017-06-12",
+        "remittance_date": "2017-06-28",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 233,
+    "fields": {
+        "year": 2017,
+        "month": 6,
+        "week": 4,
+        "ped": "2017-06-25",
+        "from_date": "2017-06-19",
+        "remittance_date": "2017-07-05",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 234,
+    "fields": {
+        "year": 2017,
+        "month": 7,
+        "week": 1,
+        "ped": "2017-07-02",
+        "from_date": "2017-06-26",
+        "remittance_date": "2017-07-12",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 235,
+    "fields": {
+        "year": 2017,
+        "month": 7,
+        "week": 2,
+        "ped": "2017-07-09",
+        "from_date": "2017-07-03",
+        "remittance_date": "2017-07-19",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 236,
+    "fields": {
+        "year": 2017,
+        "month": 7,
+        "week": 3,
+        "ped": "2017-07-16",
+        "from_date": "2017-07-10",
+        "remittance_date": "2017-07-26",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 237,
+    "fields": {
+        "year": 2017,
+        "month": 7,
+        "week": 4,
+        "ped": "2017-07-23",
+        "from_date": "2017-07-17",
+        "remittance_date": "2017-08-02",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 238,
+    "fields": {
+        "year": 2017,
+        "month": 7,
+        "week": 5,
+        "ped": "2017-07-30",
+        "from_date": "2017-07-24",
+        "remittance_date": "2017-08-09",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 239,
+    "fields": {
+        "year": 2017,
+        "month": 8,
+        "week": 1,
+        "ped": "2017-08-06",
+        "from_date": "2017-07-31",
+        "remittance_date": "2017-08-16",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 240,
+    "fields": {
+        "year": 2017,
+        "month": 8,
+        "week": 2,
+        "ped": "2017-08-13",
+        "from_date": "2017-08-07",
+        "remittance_date": "2017-08-23",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 241,
+    "fields": {
+        "year": 2017,
+        "month": 8,
+        "week": 3,
+        "ped": "2017-08-20",
+        "from_date": "2017-08-14",
+        "remittance_date": "2017-08-30",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 242,
+    "fields": {
+        "year": 2017,
+        "month": 8,
+        "week": 4,
+        "ped": "2017-08-27",
+        "from_date": "2017-08-21",
+        "remittance_date": "2017-09-06",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 243,
+    "fields": {
+        "year": 2017,
+        "month": 9,
+        "week": 1,
+        "ped": "2017-09-03",
+        "from_date": "2017-08-28",
+        "remittance_date": "2017-09-13",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 244,
+    "fields": {
+        "year": 2017,
+        "month": 9,
+        "week": 2,
+        "ped": "2017-09-10",
+        "from_date": "2017-09-04",
+        "remittance_date": "2017-09-20",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 245,
+    "fields": {
+        "year": 2017,
+        "month": 9,
+        "week": 3,
+        "ped": "2017-09-17",
+        "from_date": "2017-09-11",
+        "remittance_date": "2017-09-27",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 246,
+    "fields": {
+        "year": 2017,
+        "month": 9,
+        "week": 4,
+        "ped": "2017-09-24",
+        "from_date": "2017-09-18",
+        "remittance_date": "2017-10-04",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 247,
+    "fields": {
+        "year": 2017,
+        "month": 10,
+        "week": 1,
+        "ped": "2017-10-01",
+        "from_date": "2017-09-25",
+        "remittance_date": "2017-10-11",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 248,
+    "fields": {
+        "year": 2017,
+        "month": 10,
+        "week": 2,
+        "ped": "2017-10-08",
+        "from_date": "2017-10-02",
+        "remittance_date": "2017-10-18",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 249,
+    "fields": {
+        "year": 2017,
+        "month": 10,
+        "week": 3,
+        "ped": "2017-10-15",
+        "from_date": "2017-10-09",
+        "remittance_date": "2017-10-25",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 250,
+    "fields": {
+        "year": 2017,
+        "month": 10,
+        "week": 4,
+        "ped": "2017-10-22",
+        "from_date": "2017-10-16",
+        "remittance_date": "2017-11-01",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 251,
+    "fields": {
+        "year": 2017,
+        "month": 10,
+        "week": 5,
+        "ped": "2017-10-29",
+        "from_date": "2017-10-23",
+        "remittance_date": "2017-11-08",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 252,
+    "fields": {
+        "year": 2017,
+        "month": 11,
+        "week": 1,
+        "ped": "2017-11-05",
+        "from_date": "2017-10-30",
+        "remittance_date": "2017-11-15",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 253,
+    "fields": {
+        "year": 2017,
+        "month": 11,
+        "week": 2,
+        "ped": "2017-11-12",
+        "from_date": "2017-11-06",
+        "remittance_date": "2017-11-22",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 254,
+    "fields": {
+        "year": 2017,
+        "month": 11,
+        "week": 3,
+        "ped": "2017-11-19",
+        "from_date": "2017-11-13",
+        "remittance_date": "2017-11-29",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 255,
+    "fields": {
+        "year": 2017,
+        "month": 11,
+        "week": 4,
+        "ped": "2017-11-26",
+        "from_date": "2017-11-20",
+        "remittance_date": "2017-12-06",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 256,
+    "fields": {
+        "year": 2017,
+        "month": 12,
+        "week": 1,
+        "ped": "2017-12-03",
+        "from_date": "2017-11-27",
+        "remittance_date": "2017-12-13",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 257,
+    "fields": {
+        "year": 2017,
+        "month": 12,
+        "week": 2,
+        "ped": "2017-12-10",
+        "from_date": "2017-12-04",
+        "remittance_date": "2017-12-20",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 258,
+    "fields": {
+        "year": 2017,
+        "month": 12,
+        "week": 3,
+        "ped": "2017-12-17",
+        "from_date": "2017-12-11",
+        "remittance_date": "2017-12-27",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 259,
+    "fields": {
+        "year": 2017,
+        "month": 12,
+        "week": 4,
+        "ped": "2017-12-24",
+        "from_date": "2017-12-18",
+        "remittance_date": "2018-01-03",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 260,
+    "fields": {
+        "year": 2017,
+        "month": 12,
+        "week": 5,
+        "ped": "2017-12-31",
+        "from_date": "2017-12-25",
+        "remittance_date": "2018-01-10",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 261,
+    "fields": {
+        "year": 2019,
+        "month": 3,
+        "week": 5,
+        "ped": "2019-03-31",
+        "from_date": "2019-03-25",
+        "remittance_date": "2019-04-04",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 262,
+    "fields": {
+        "year": 2020,
+        "month": 1,
+        "week": 1,
+        "ped": "2020-01-05",
+        "from_date": "2020-01-01",
+        "remittance_date": "2020-01-15",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 263,
+    "fields": {
+        "year": 2020,
+        "month": 1,
+        "week": 2,
+        "ped": "2020-01-12",
+        "from_date": "2020-01-06",
+        "remittance_date": "2020-01-22",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 264,
+    "fields": {
+        "year": 2020,
+        "month": 1,
+        "week": 3,
+        "ped": "2020-01-19",
+        "from_date": "2020-01-13",
+        "remittance_date": "2020-01-29",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 265,
+    "fields": {
+        "year": 2020,
+        "month": 1,
+        "week": 4,
+        "ped": "2020-01-26",
+        "from_date": "2020-01-20",
+        "remittance_date": "2020-02-05",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 266,
+    "fields": {
+        "year": 2020,
+        "month": 2,
+        "week": 1,
+        "ped": "2020-02-02",
+        "from_date": "2020-01-27",
+        "remittance_date": "2020-02-12",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 267,
+    "fields": {
+        "year": 2020,
+        "month": 2,
+        "week": 2,
+        "ped": "2020-02-09",
+        "from_date": "2020-02-03",
+        "remittance_date": "2020-02-19",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 268,
+    "fields": {
+        "year": 2020,
+        "month": 2,
+        "week": 3,
+        "ped": "2020-02-16",
+        "from_date": "2020-02-10",
+        "remittance_date": "2020-02-26",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 269,
+    "fields": {
+        "year": 2020,
+        "month": 2,
+        "week": 4,
+        "ped": "2020-02-23",
+        "from_date": "2020-02-17",
+        "remittance_date": "2020-03-04",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 270,
+    "fields": {
+        "year": 2020,
+        "month": 3,
+        "week": 1,
+        "ped": "2020-03-01",
+        "from_date": "2020-02-24",
+        "remittance_date": "2020-03-11",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 271,
+    "fields": {
+        "year": 2020,
+        "month": 3,
+        "week": 2,
+        "ped": "2020-03-08",
+        "from_date": "2020-03-02",
+        "remittance_date": "2020-03-18",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 272,
+    "fields": {
+        "year": 2020,
+        "month": 3,
+        "week": 3,
+        "ped": "2020-03-15",
+        "from_date": "2020-03-09",
+        "remittance_date": "2020-03-25",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 273,
+    "fields": {
+        "year": 2020,
+        "month": 3,
+        "week": 4,
+        "ped": "2020-03-22",
+        "from_date": "2020-03-16",
+        "remittance_date": "2020-04-01",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 274,
+    "fields": {
+        "year": 2020,
+        "month": 3,
+        "week": 5,
+        "ped": "2020-03-29",
+        "from_date": "2020-03-23",
+        "remittance_date": "2020-04-08",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 275,
+    "fields": {
+        "year": 2020,
+        "month": 4,
+        "week": 1,
+        "ped": "2020-04-05",
+        "from_date": "2020-03-30",
+        "remittance_date": "2020-04-15",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 276,
+    "fields": {
+        "year": 2020,
+        "month": 4,
+        "week": 2,
+        "ped": "2020-04-12",
+        "from_date": "2020-04-06",
+        "remittance_date": "2020-04-22",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 277,
+    "fields": {
+        "year": 2020,
+        "month": 4,
+        "week": 3,
+        "ped": "2020-04-19",
+        "from_date": "2020-04-13",
+        "remittance_date": "2020-04-29",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 278,
+    "fields": {
+        "year": 2020,
+        "month": 4,
+        "week": 4,
+        "ped": "2020-04-26",
+        "from_date": "2020-04-20",
+        "remittance_date": "2020-05-06",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 279,
+    "fields": {
+        "year": 2020,
+        "month": 5,
+        "week": 1,
+        "ped": "2020-05-03",
+        "from_date": "2020-04-27",
+        "remittance_date": "2020-05-13",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 280,
+    "fields": {
+        "year": 2020,
+        "month": 5,
+        "week": 2,
+        "ped": "2020-05-10",
+        "from_date": "2020-05-04",
+        "remittance_date": "2020-05-20",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 281,
+    "fields": {
+        "year": 2020,
+        "month": 5,
+        "week": 3,
+        "ped": "2020-05-17",
+        "from_date": "2020-05-11",
+        "remittance_date": "2020-05-27",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 282,
+    "fields": {
+        "year": 2020,
+        "month": 5,
+        "week": 4,
+        "ped": "2020-05-24",
+        "from_date": "2020-05-18",
+        "remittance_date": "2020-06-03",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 283,
+    "fields": {
+        "year": 2020,
+        "month": 5,
+        "week": 5,
+        "ped": "2020-05-31",
+        "from_date": "2020-05-25",
+        "remittance_date": "2020-06-10",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 284,
+    "fields": {
+        "year": 2020,
+        "month": 6,
+        "week": 1,
+        "ped": "2020-06-07",
+        "from_date": "2020-06-01",
+        "remittance_date": "2020-06-17",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 285,
+    "fields": {
+        "year": 2020,
+        "month": 6,
+        "week": 2,
+        "ped": "2020-06-14",
+        "from_date": "2020-06-08",
+        "remittance_date": "2020-06-24",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 286,
+    "fields": {
+        "year": 2020,
+        "month": 6,
+        "week": 3,
+        "ped": "2020-06-21",
+        "from_date": "2020-06-15",
+        "remittance_date": "2020-07-02",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 287,
+    "fields": {
+        "year": 2020,
+        "month": 6,
+        "week": 4,
+        "ped": "2020-06-28",
+        "from_date": "2020-06-22",
+        "remittance_date": "2020-07-08",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 288,
+    "fields": {
+        "year": 2020,
+        "month": 7,
+        "week": 1,
+        "ped": "2020-07-05",
+        "from_date": "2020-06-29",
+        "remittance_date": "2020-07-15",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 289,
+    "fields": {
+        "year": 2020,
+        "month": 7,
+        "week": 2,
+        "ped": "2020-07-12",
+        "from_date": "2020-07-06",
+        "remittance_date": "2020-07-22",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 290,
+    "fields": {
+        "year": 2020,
+        "month": 7,
+        "week": 3,
+        "ped": "2020-07-19",
+        "from_date": "2020-07-13",
+        "remittance_date": "2020-07-29",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 291,
+    "fields": {
+        "year": 2020,
+        "month": 7,
+        "week": 4,
+        "ped": "2020-07-26",
+        "from_date": "2020-07-20",
+        "remittance_date": "2020-08-05",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 292,
+    "fields": {
+        "year": 2020,
+        "month": 8,
+        "week": 1,
+        "ped": "2020-08-02",
+        "from_date": "2020-07-27",
+        "remittance_date": "2020-08-12",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 293,
+    "fields": {
+        "year": 2020,
+        "month": 8,
+        "week": 2,
+        "ped": "2020-08-09",
+        "from_date": "2020-08-03",
+        "remittance_date": "2020-08-19",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 294,
+    "fields": {
+        "year": 2020,
+        "month": 8,
+        "week": 3,
+        "ped": "2020-08-16",
+        "from_date": "2020-08-10",
+        "remittance_date": "2020-08-26",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 295,
+    "fields": {
+        "year": 2020,
+        "month": 8,
+        "week": 4,
+        "ped": "2020-08-23",
+        "from_date": "2020-08-17",
+        "remittance_date": "2020-09-02",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 296,
+    "fields": {
+        "year": 2020,
+        "month": 8,
+        "week": 5,
+        "ped": "2020-08-30",
+        "from_date": "2020-08-24",
+        "remittance_date": "2020-09-09",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 297,
+    "fields": {
+        "year": 2020,
+        "month": 9,
+        "week": 1,
+        "ped": "2020-09-06",
+        "from_date": "2020-08-31",
+        "remittance_date": "2020-09-16",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 298,
+    "fields": {
+        "year": 2020,
+        "month": 9,
+        "week": 2,
+        "ped": "2020-09-13",
+        "from_date": "2020-09-07",
+        "remittance_date": "2020-09-23",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 299,
+    "fields": {
+        "year": 2020,
+        "month": 9,
+        "week": 3,
+        "ped": "2020-09-20",
+        "from_date": "2020-09-14",
+        "remittance_date": "2020-09-30",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 300,
+    "fields": {
+        "year": 2020,
+        "month": 9,
+        "week": 4,
+        "ped": "2020-09-27",
+        "from_date": "2020-09-21",
+        "remittance_date": "2020-10-07",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 301,
+    "fields": {
+        "year": 2020,
+        "month": 10,
+        "week": 1,
+        "ped": "2020-10-04",
+        "from_date": "2020-09-28",
+        "remittance_date": "2020-10-14",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 302,
+    "fields": {
+        "year": 2020,
+        "month": 10,
+        "week": 2,
+        "ped": "2020-10-11",
+        "from_date": "2020-10-05",
+        "remittance_date": "2020-10-21",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 303,
+    "fields": {
+        "year": 2020,
+        "month": 10,
+        "week": 3,
+        "ped": "2020-10-18",
+        "from_date": "2020-10-12",
+        "remittance_date": "2020-10-28",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 304,
+    "fields": {
+        "year": 2020,
+        "month": 10,
+        "week": 4,
+        "ped": "2020-10-25",
+        "from_date": "2020-10-19",
+        "remittance_date": "2020-11-04",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 305,
+    "fields": {
+        "year": 2020,
+        "month": 11,
+        "week": 1,
+        "ped": "2020-11-01",
+        "from_date": "2020-10-26",
+        "remittance_date": "2020-11-12",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 306,
+    "fields": {
+        "year": 2020,
+        "month": 11,
+        "week": 2,
+        "ped": "2020-11-08",
+        "from_date": "2020-11-02",
+        "remittance_date": "2020-11-18",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 307,
+    "fields": {
+        "year": 2020,
+        "month": 11,
+        "week": 3,
+        "ped": "2020-11-15",
+        "from_date": "2020-11-09",
+        "remittance_date": "2020-11-25",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 308,
+    "fields": {
+        "year": 2020,
+        "month": 11,
+        "week": 4,
+        "ped": "2020-11-22",
+        "from_date": "2020-11-16",
+        "remittance_date": "2020-12-02",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 309,
+    "fields": {
+        "year": 2020,
+        "month": 11,
+        "week": 5,
+        "ped": "2020-11-29",
+        "from_date": "2020-11-23",
+        "remittance_date": "2020-12-09",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 310,
+    "fields": {
+        "year": 2020,
+        "month": 12,
+        "week": 1,
+        "ped": "2020-12-06",
+        "from_date": "2020-11-30",
+        "remittance_date": "2020-12-16",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 311,
+    "fields": {
+        "year": 2020,
+        "month": 12,
+        "week": 2,
+        "ped": "2020-12-13",
+        "from_date": "2020-12-07",
+        "remittance_date": "2020-12-23",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 312,
+    "fields": {
+        "year": 2020,
+        "month": 12,
+        "week": 3,
+        "ped": "2020-12-20",
+        "from_date": "2020-12-14",
+        "remittance_date": "2020-12-30",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 313,
+    "fields": {
+        "year": 2020,
+        "month": 12,
+        "week": 4,
+        "ped": "2020-12-27",
+        "from_date": "2020-12-21",
+        "remittance_date": "2021-01-06",
+        "country": 1
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 314,
+    "fields": {
+        "year": 2020,
+        "month": 1,
+        "week": 1,
+        "ped": "2020-01-05",
+        "from_date": "2019-12-30",
+        "remittance_date": "2020-01-10",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 315,
+    "fields": {
+        "year": 2020,
+        "month": 1,
+        "week": 2,
+        "ped": "2020-01-12",
+        "from_date": "2020-01-06",
+        "remittance_date": "2020-01-17",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 316,
+    "fields": {
+        "year": 2020,
+        "month": 1,
+        "week": 3,
+        "ped": "2020-01-19",
+        "from_date": "2020-01-13",
+        "remittance_date": "2020-01-24",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 317,
+    "fields": {
+        "year": 2020,
+        "month": 1,
+        "week": 4,
+        "ped": "2020-01-26",
+        "from_date": "2020-01-20",
+        "remittance_date": "2020-01-31",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 318,
+    "fields": {
+        "year": 2020,
+        "month": 2,
+        "week": 1,
+        "ped": "2020-02-02",
+        "from_date": "2020-01-27",
+        "remittance_date": "2020-02-07",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 319,
+    "fields": {
+        "year": 2020,
+        "month": 2,
+        "week": 2,
+        "ped": "2020-02-09",
+        "from_date": "2020-02-03",
+        "remittance_date": "2020-02-14",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 320,
+    "fields": {
+        "year": 2020,
+        "month": 2,
+        "week": 3,
+        "ped": "2020-02-16",
+        "from_date": "2020-02-10",
+        "remittance_date": "2020-02-21",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 321,
+    "fields": {
+        "year": 2020,
+        "month": 2,
+        "week": 4,
+        "ped": "2020-02-23",
+        "from_date": "2020-02-17",
+        "remittance_date": "2020-02-28",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 322,
+    "fields": {
+        "year": 2020,
+        "month": 3,
+        "week": 1,
+        "ped": "2020-03-01",
+        "from_date": "2020-02-24",
+        "remittance_date": "2020-03-06",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 323,
+    "fields": {
+        "year": 2020,
+        "month": 3,
+        "week": 2,
+        "ped": "2020-03-08",
+        "from_date": "2020-03-02",
+        "remittance_date": "2020-03-13",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 324,
+    "fields": {
+        "year": 2020,
+        "month": 3,
+        "week": 3,
+        "ped": "2020-03-15",
+        "from_date": "2020-03-09",
+        "remittance_date": "2020-03-20",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 325,
+    "fields": {
+        "year": 2020,
+        "month": 3,
+        "week": 4,
+        "ped": "2020-03-22",
+        "from_date": "2020-03-16",
+        "remittance_date": "2020-03-27",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 326,
+    "fields": {
+        "year": 2020,
+        "month": 3,
+        "week": 5,
+        "ped": "2020-03-29",
+        "from_date": "2020-03-23",
+        "remittance_date": "2020-04-03",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 327,
+    "fields": {
+        "year": 2020,
+        "month": 4,
+        "week": 1,
+        "ped": "2020-04-05",
+        "from_date": "2020-03-30",
+        "remittance_date": "2020-04-10",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 328,
+    "fields": {
+        "year": 2020,
+        "month": 4,
+        "week": 2,
+        "ped": "2020-04-12",
+        "from_date": "2020-04-06",
+        "remittance_date": "2020-04-17",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 329,
+    "fields": {
+        "year": 2020,
+        "month": 4,
+        "week": 3,
+        "ped": "2020-04-19",
+        "from_date": "2020-04-13",
+        "remittance_date": "2020-04-24",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 330,
+    "fields": {
+        "year": 2020,
+        "month": 4,
+        "week": 4,
+        "ped": "2020-04-26",
+        "from_date": "2020-04-20",
+        "remittance_date": "2020-05-01",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 331,
+    "fields": {
+        "year": 2020,
+        "month": 5,
+        "week": 1,
+        "ped": "2020-05-03",
+        "from_date": "2020-04-27",
+        "remittance_date": "2020-05-08",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 332,
+    "fields": {
+        "year": 2020,
+        "month": 5,
+        "week": 2,
+        "ped": "2020-05-10",
+        "from_date": "2020-05-04",
+        "remittance_date": "2020-05-15",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 333,
+    "fields": {
+        "year": 2020,
+        "month": 5,
+        "week": 3,
+        "ped": "2020-05-17",
+        "from_date": "2020-05-11",
+        "remittance_date": "2020-05-22",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 334,
+    "fields": {
+        "year": 2020,
+        "month": 5,
+        "week": 4,
+        "ped": "2020-05-24",
+        "from_date": "2020-05-18",
+        "remittance_date": "2020-05-29",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 335,
+    "fields": {
+        "year": 2020,
+        "month": 6,
+        "week": 1,
+        "ped": "2020-05-31",
+        "from_date": "2020-05-25",
+        "remittance_date": "2020-06-05",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 336,
+    "fields": {
+        "year": 2020,
+        "month": 6,
+        "week": 2,
+        "ped": "2020-06-07",
+        "from_date": "2020-06-01",
+        "remittance_date": "2020-06-12",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 337,
+    "fields": {
+        "year": 2020,
+        "month": 6,
+        "week": 3,
+        "ped": "2020-06-14",
+        "from_date": "2020-06-08",
+        "remittance_date": "2020-06-19",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 338,
+    "fields": {
+        "year": 2020,
+        "month": 6,
+        "week": 4,
+        "ped": "2020-06-21",
+        "from_date": "2020-06-15",
+        "remittance_date": "2020-06-26",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 339,
+    "fields": {
+        "year": 2020,
+        "month": 6,
+        "week": 5,
+        "ped": "2020-06-28",
+        "from_date": "2020-06-22",
+        "remittance_date": "2020-07-03",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 340,
+    "fields": {
+        "year": 2020,
+        "month": 7,
+        "week": 1,
+        "ped": "2020-07-05",
+        "from_date": "2020-06-29",
+        "remittance_date": "2020-07-10",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 341,
+    "fields": {
+        "year": 2020,
+        "month": 7,
+        "week": 2,
+        "ped": "2020-07-12",
+        "from_date": "2020-07-06",
+        "remittance_date": "2020-07-17",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 342,
+    "fields": {
+        "year": 2020,
+        "month": 7,
+        "week": 3,
+        "ped": "2020-07-19",
+        "from_date": "2020-07-13",
+        "remittance_date": "2020-07-24",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 343,
+    "fields": {
+        "year": 2020,
+        "month": 7,
+        "week": 4,
+        "ped": "2020-07-26",
+        "from_date": "2020-07-20",
+        "remittance_date": "2020-07-31",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 344,
+    "fields": {
+        "year": 2020,
+        "month": 8,
+        "week": 1,
+        "ped": "2020-08-02",
+        "from_date": "2020-07-27",
+        "remittance_date": "2020-08-07",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 345,
+    "fields": {
+        "year": 2020,
+        "month": 8,
+        "week": 2,
+        "ped": "2020-08-09",
+        "from_date": "2020-08-03",
+        "remittance_date": "2020-08-14",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 346,
+    "fields": {
+        "year": 2020,
+        "month": 8,
+        "week": 3,
+        "ped": "2020-08-16",
+        "from_date": "2020-08-10",
+        "remittance_date": "2020-08-21",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 347,
+    "fields": {
+        "year": 2020,
+        "month": 8,
+        "week": 4,
+        "ped": "2020-08-23",
+        "from_date": "2020-08-17",
+        "remittance_date": "2020-08-28",
+        "country": 2
+    }
+},
+{
+    "model": "report.reportperiod",
+    "pk": 348,
+    "fields": {
+        "year": 2020,
+        "month": 9,
+        "week": 1,
+        "ped": "2020-08-30",
+        "from_date": "2020-08-24",
+        "remittance_date": "2020-09-04",
+        "country": 2
